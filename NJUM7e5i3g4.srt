@@ -1,14 +1,2913 @@
-﻿0
-00:00:10 --> 00:00:25
- <i><font color="#fffffff">Các Bạn Đang Xem Phim: Ngôi Nhà Có Chiếc Đồng Hồ Ma Thuật </font>
-<font color="#99CC00">Được chiếu miễn phí tại</font>
-<font color="#fa0417">phimhd.thietkeweb30s.org</i>
+WEBVTT
+Kind: captions
+Language: vi
 
-2
-00:00:25,240 --> 00:00:35,800
-Hãy Truy Cập phimhd.thietkeweb30s.org hàng ngày để đón xem những bộ phim mới nhất và hấp dẫn liên tục được cập nhật.
+00:02:47.768 --> 00:02:50.464
+Đến nơi! Tới lúc vận động rồi.
 
-3
-00:00:35,800 --> 00:00:45,500
- <i>Chúc Các Bạn Xem Phim Vui Vẻ!
-phimhd.thietkeweb30s.org  ^.^</i>
+00:04:14.888 --> 00:04:16.116
+Xin chào?
+
+00:04:17.858 --> 00:04:19.382
+Ai đấy?
+
+00:04:56.997 --> 00:05:00.228
+Mày làm tao sợ muốn chết, con mèo ghẻ lở này.
+
+00:05:02.102 --> 00:05:05.560
+Tao đang tìm 1 cái giếng nước cũ. Biết không?
+
+00:05:08.242 --> 00:05:09.869
+Không nói chuyện hở?
+
+00:05:12.012 --> 00:05:14.378
+Hỡi đũa thần, đũa thần,
+
+00:05:15.616 --> 00:05:18.210
+Hãy chỉ cho ta cái giếng!
+
+00:05:28.762 --> 00:05:30.389
+Tránh xa tôi ra!
+
+00:05:40.140 --> 00:05:41.266
+Ooh.
+
+00:05:41.342 --> 00:05:45.711
+Tớ đoán cậu đến từ Texas hay Utah khô cằn phải không?
+
+00:05:45.779 --> 00:05:48.873
+Tớ có nghe về trò phù thủy nước
+nhưng nó chả hợp lý gì cả.
+
+00:05:48.949 --> 00:05:52.612
+- Đấy chỉ là 1 cành cây bình thường.
+- Đây là 1 cây gậy dò mạch nước.
+
+00:05:52.686 --> 00:05:53.744
+Ow!
+
+00:05:53.821 --> 00:05:58.656
+Và tôi không thích bị bị người ta theo dõi,
+nhất là mấy thằng ngốc tưng tưng với mèo của tụi nó
+
+00:05:58.726 --> 00:06:02.492
+Nó không thật sự là mèo của tớ.
+Nó là mèo hoang.
+
+00:06:02.563 --> 00:06:04.690
+Tất nhiên, tớ có cho nó ăn mỗi đêm
+
+00:06:04.765 --> 00:06:08.758
+và đôi khi nó trèo lên của sổ phòng tớ,
+tha về cho tớ vài cái xác chết nho nhỏ
+
+00:06:08.836 --> 00:06:11.134
+Nghe này, tôi đến từ Pontiac.
+
+00:06:11.372 --> 00:06:12.498
+Hở?
+
+00:06:12.573 --> 00:06:17.840
+Michigan. Và nếu tôi là 1 phù thủy nước
+thì cái giếng ở đâu chứ?
+
+00:06:18.212 --> 00:06:20.680
+Cậu dậm mạnh nữa thì sẽ rớt xuống giếng đó.
+
+00:06:20.748 --> 00:06:21.806
+Ồ!
+
+00:06:24.852 --> 00:06:25.841
+Thấy chưa?
+
+00:06:27.087 --> 00:06:30.454
+Nó rất sâu, nếu cậu rơi xuống đấy giếng rồi ngước lên nhìn,
+
+00:06:30.524 --> 00:06:34.016
+cậu sẽ thấy 1 bầu trời đầy sao ngay giữa ban ngày.
+
+00:06:34.395 --> 00:06:35.453
+Ha!
+
+00:06:36.797 --> 00:06:38.526
+Thật bất ngờ khi bà cho cậu dọn đến ở.
+
+00:06:38.599 --> 00:06:42.933
+Bà tớ ấy, bà là chủ Lâu Đài Màu Hồng. Không bao giờ cho mấy người dắt theo trẻ con thuê nhà.
+
+00:06:43.370 --> 00:06:44.837
+Ý cậu là sao?
+
+00:06:44.905 --> 00:06:49.365
+Tớ không được nói chuyện này.
+Tớ là Wybie. Wybie Lovat.
+
+00:06:50.043 --> 00:06:52.204
+- Wybie?
+- Viết tắt của Wyborne.
+
+00:06:52.579 --> 00:06:55.912
+Tất nhiên tên đấy không phải tớ đặt.
+Cậu bị sai đi làm vụ gì vậy?
+
+00:06:55.983 --> 00:06:59.077
+Tôi chả bị ai sai bảo gì cả. Tên tôi là Coraline.
+
+00:06:59.486 --> 00:07:02.614
+- Caroline gì?
+- Coraline. Coraline Jones.
+
+00:07:02.689 --> 00:07:06.921
+Dù không thực sự khoa học, nhưng tớ nghe nói rằng những cái tên tầm thường như Caroline...
+
+00:07:06.994 --> 00:07:09.394
+có thể làm cho người khác đặt những mong đợi tầm thường nơi cậu.
+
+00:07:10.564 --> 00:07:12.191
+LOVAT: Wyborne!
+
+00:07:13.300 --> 00:07:15.894
+Tôi nghĩ tôi nghe tiếng ai đó gọi cậu, Wyborne.
+
+00:07:15.969 --> 00:07:20.429
+- Gì? Tớ chả nghe thấy gì cả.
+- Chắc chắn là có tiếng ai đó,
+
+00:07:20.941 --> 00:07:22.841
+Why-Were-You-Born. (Sao-Mày-Lại-Ra-Đời)
+
+00:07:23.777 --> 00:07:26.143
+- LOVAT: Wyborne!
+- Bà!
+
+00:07:29.917 --> 00:07:33.444
+Thật hay khi được gặp một phù thủy nước xứ Michigan,
+
+00:07:34.488 --> 00:07:36.888
+nhưng nếu là cậu, lần sau tớ sẽ đeo găng tay.
+
+00:07:37.491 --> 00:07:40.790
+- vì sao?
+- Vì cây gậy dò mạch nước của cậu,
+
+00:07:40.861 --> 00:07:42.260
+Là cây sồi độc.
+
+00:08:13.861 --> 00:08:16.625
+Hôm qua tí nữa là con bị té giếng rồi đó mẹ.
+
+00:08:16.697 --> 00:08:17.959
+Ừ
+
+00:08:18.465 --> 00:08:19.932
+Té là con chết rồi.
+
+00:08:20.868 --> 00:08:22.335
+Chết thì hay.
+
+00:08:22.402 --> 00:08:23.460
+Hmm.
+
+00:08:23.837 --> 00:08:27.637
+Con ra ngoài được không?
+Con thấy trời đẹp như vầy ra làm vườn thì tuyệt.
+
+00:08:27.708 --> 00:08:30.939
+Không, Coraline ạ. Mưa làm đất bùn. Bùn làm người bẩn.
+
+00:08:31.345 --> 00:08:34.781
+Nhưng con muốn khi bạn con tới chơi thì vườn nhà mình phải xanh tươi.
+
+00:08:34.848 --> 00:08:36.782
+Đấy không phải lý do mình chuyển đến đây sao?
+
+00:08:36.850 --> 00:08:40.718
+Đại loại vậy.
+Nhưng sau đó chúng ta gặp tai nạn.
+
+00:08:40.954 --> 00:08:44.355
+- Vụ mẹ tông chiếc xe đó đâu phải lỗi của con.
+- Mẹ chưa bao giờ nói đấy là lỗi của con.
+
+00:08:44.424 --> 00:08:46.016
+Không thể tin được.
+
+00:08:46.093 --> 00:08:49.256
+Mẹ với ba được trả lương để viết về cây cối,
+vậy mà mẹ lại đi ghét bùn đất.
+
+00:08:49.329 --> 00:08:52.127
+Coraline, bây giờ mẹ không rảnh...
+
+00:08:52.199 --> 00:08:55.794
+và con còn 1 đống đồ để sắp dọn.
+
+00:08:55.869 --> 00:08:58.394
+Thiệt là thú vị.
+
+00:08:59.239 --> 00:09:02.697
+Ờ, có cậu bé nào đó để cái này ở hiên trước này.
+
+00:09:04.211 --> 00:09:07.408
+&lt;i&gt;WYBIE: Jonesy này:
+Xem tớ tìm được cái gì trong hòm đồ của bà này:&lt;/i&gt;
+
+00:09:07.481 --> 00:09:09.608
+&lt;i&gt;Thấy quen không?&lt;/i&gt;
+
+00:09:12.452 --> 00:09:13.680
+Hử
+
+00:09:14.254 --> 00:09:17.587
+Bản sao tí hon của mình hở? Kỳ cục thiệt.
+
+00:09:17.824 --> 00:09:19.382
+Tên cậu bé ấy là gì?
+
+00:09:19.459 --> 00:09:22.394
+Wybie. Và con quá già để chơi búp bê.
+
+00:09:26.867 --> 00:09:29.665
+Ba. Bài viết thế nào rồi?
+
+00:09:33.707 --> 00:09:34.765
+Ba!
+
+00:09:35.475 --> 00:09:39.844
+Chào, Coraline và Coraline búp bê.
+
+00:09:41.915 --> 00:09:44.383
+Ba biết dụng cụ làm vườn ở đâu không ạ?
+
+00:09:44.451 --> 00:09:47.284
+Ngoài kia trời mưa như trút nước phải không?
+
+00:09:48.789 --> 00:09:51.849
+- Mưa chứ đâu có trút nước.
+- "Sếp" nói sao?
+
+00:09:51.925 --> 00:09:55.417
+"Đừng có nghĩ đến chuyện ra ngoài, Coraline Jones!"
+
+00:09:55.796 --> 00:09:57.593
+Vậy thì con đâu cần dụng cụ làm vườn nữa.
+
+00:10:08.909 --> 00:10:12.936
+Con biết không, ngôi nhà này đã 150 năm tuổi rồi.
+
+00:10:13.313 --> 00:10:16.146
+- Thì sao?
+- Thì hãy khám phá nó đi.
+
+00:10:16.216 --> 00:10:20.016
+Đi đếm tất cả số cửa phòng và cửa sổ rồi ghi lại...
+
+00:10:20.087 --> 00:10:23.579
+Ghi ra tất cả những thứ màu xanh.
+Hãy để ba làm việc.
+
+00:11:00.927 --> 00:11:02.360
+Eo!
+
+00:11:33.760 --> 00:11:36.388
+Không.Không.Không.
+
+00:12:14.067 --> 00:12:20.097
+Một thằng bé tẻ nhạt trên một bức vẻ tẻ nhạt 1 cách đau khổ.
+
+00:12:22.075 --> 00:12:25.511
+Bốn cái cửa sổ tẻ nhạt 1 cách đáng kinh ngạc.
+
+00:12:25.979 --> 00:12:29.312
+và không còn cái cửa nào nữa.
+
+00:12:32.452 --> 00:12:35.387
+Được rồi, bản sao tí hon, mày trốn đâu rồi?
+
+00:12:44.264 --> 00:12:45.458
+Hử?
+
+00:12:50.003 --> 00:12:52.699
+Mẹ ơi. Cái cửa này dẫn đi đâu vậy?
+
+00:12:52.773 --> 00:12:55.469
+Mẹ đang rất rất bận.
+
+00:12:55.542 --> 00:12:56.941
+Con nghĩ nó bị khóa.
+
+00:12:58.311 --> 00:12:59.505
+Đi mà!
+
+00:13:09.523 --> 00:13:13.118
+Nếu mẹ chiều con việc này
+thì con sẽ thôi không quấy rầy mẹ nữa chứ?
+
+00:13:15.128 --> 00:13:16.220
+Tốt.
+
+00:13:33.980 --> 00:13:35.743
+Tường gạch? Con không hiểu.
+
+00:13:36.983 --> 00:13:40.009
+Họ chắc đã đóng chỗ này lại khi chia ngôi nhà ra.
+
+00:13:40.086 --> 00:13:43.078
+Mẹ đùa à, và sao cái cửa lại nhỏ thế?
+
+00:13:43.156 --> 00:13:46.023
+Chúng ta đã thỏa thuận rồi, khóa môi lại.
+
+00:13:48.295 --> 00:13:49.353
+Mẹ không khóa cửa lại này.
+
+00:13:58.104 --> 00:14:01.005
+&lt;i&gt;Ô! con gái bé bé bồng bông của ta&lt;/i&gt;
+
+00:14:01.074 --> 00:14:04.271
+&lt;i&gt;Con thật là đáng yêu
+Ta cho con 1 tô cháo&lt;/i&gt;
+
+00:14:04.344 --> 00:14:05.470
+&lt;i&gt;Ta cho con một ly kem&lt;/i&gt;
+
+00:14:07.047 --> 00:14:08.947
+Tại sao mẹ không bao giờ nấu ăn vậy?
+
+00:14:09.015 --> 00:14:10.778
+Chúng ta đã từng nói về điều này rồi mà
+
+00:14:10.851 --> 00:14:14.412
+Ba con nấu nướng, còn mẹ sẽ dọn dẹp.
+Và con không làm phiền ba mẹ.
+
+00:14:14.988 --> 00:14:18.890
+Mẹ hứa sẽ đi mua đồ ăn
+Ngay sau khi ba mẹ làm xong cuốn Catalô.
+
+00:14:18.959 --> 00:14:21.154
+Thử một ít cải đi.
+Con cần ăn thêm rau đấy.
+
+00:14:21.228 --> 00:14:23.526
+Trông nó giống như dịch ốc sên ấy ...
+
+00:14:24.064 --> 00:14:28.125
+Thế ăn dịch ốc sên hay là đi ngủ nào, cô bé phiền phức.
+Con muốn thế nào?
+
+00:14:28.568 --> 00:14:31.002
+Cậu có nghĩ là họ định đầu độc mình ko?
+
+00:14:50.490 --> 00:14:53.516
+Đừng quên tớ nhé. Được không?
+
+00:15:02.002 --> 00:15:04.436
+Ngủ ngon nhé, tôi tí hon.
+
+00:16:08.168 --> 00:16:09.362
+Whoa!
+
+00:16:29.656 --> 00:16:30.645
+Hử
+
+00:16:41.201 --> 00:16:43.601
+Mmm. Có mùi gì thơm thế
+
+00:16:54.214 --> 00:16:57.741
+Ơ mẹ? Mẹ làm gì ở đây vào nửa đêm thế
+
+00:16:57.817 --> 00:17:00.411
+Con vừa đúng giờ để ăn tối đấy, cục cưng ạ
+
+00:17:03.590 --> 00:17:07.048
+Bà không phải là mẹ của cháu
+Mẹ cháu không có cái ...
+
+00:17:09.629 --> 00:17:12.564
+Nút ? con có thích ko?
+
+00:17:12.632 --> 00:17:14.827
+Mẹ là mẹ kia của con, ngốc ạ
+
+00:17:14.901 --> 00:17:18.200
+Đi gọi ba kia của con xuống ăn tối nào.
+
+00:17:19.939 --> 00:17:22.806
+Đi đi, ông ấy trong phòng đọc sách đấy.
+
+00:17:30.750 --> 00:17:31.910
+Xin chào?
+
+00:17:32.252 --> 00:17:34.220
+Xin chào,Coraline.
+
+00:17:35.522 --> 00:17:37.422
+Muốn nghe bài hát mới của ba không?
+
+00:17:37.924 --> 00:17:41.087
+- Ba cháu không biết chơi piano
+- Không cần phải biết.
+
+00:17:43.430 --> 00:17:45.625
+Chiếc Piano này sẽ điều khiển ba.
+
+00:17:49.235 --> 00:17:53.171
+&lt;i&gt;Viết một bài hát về Coraline&lt;/i&gt;
+
+00:17:53.239 --> 00:17:57.175
+&lt;i&gt;Cô bé là 1 quả đào, cô bé là 1 con búp bê. Cô bé là bạn tôi&lt;/i&gt;
+
+00:17:57.243 --> 00:18:00.076
+&lt;i&gt;Cô bé dễ thương như 1 cái nút
+trong mắt mọi người&lt;/i&gt;
+
+00:18:00.146 --> 00:18:04.310
+&lt;i&gt;Những người từng trông thấy Coraline&lt;/i&gt;
+
+00:18:05.285 --> 00:18:08.618
+&lt;i&gt;Khi cô bé đi vòng quanh khám phá căn nhà
+Mẹ và ba sẽ không bao giờ làm chuyện đó chán&lt;/i&gt;
+
+00:18:08.688 --> 00:18:12.715
+&lt;i&gt;Chúng ta sẽ luôn trông chừng Coraline&lt;/i&gt;
+
+00:18:12.792 --> 00:18:17.991
+Xí mê, nhưng cô kia bảo cháu nói với chú là thức ăn đã sẵn sàng.
+
+00:18:18.064 --> 00:18:19.053
+Mmm.
+
+00:18:19.132 --> 00:18:21.100
+Ai đói bụng nào? Giơ tay lên.
+
+00:18:21.167 --> 00:18:22.156
+Whoa!
+
+00:18:35.081 --> 00:18:40.519
+Chúng con xin cảm ơn và cầu chúa chúc phúc cho món ức gà của mẹ.
+
+00:18:51.498 --> 00:18:52.760
+Mmm!
+
+00:18:52.832 --> 00:18:56.029
+- Thịt gà ngon quá.
+- Con đói lắm phải không?
+
+00:18:57.237 --> 00:19:00.934
+- Cô có nước sốt không ạ?
+- Tàu nước sốt đến đây.
+
+00:19:01.007 --> 00:19:02.770
+Choo, choo!
+
+00:19:10.383 --> 00:19:11.407
+Huh.
+
+00:19:11.484 --> 00:19:14.920
+Bánh mì nữa không? Đậu ngọt? Hay bắp?
+
+00:19:16.823 --> 00:19:18.450
+Cháu khát nước quá.
+
+00:19:19.025 --> 00:19:21.687
+Dĩ nhiên rồi. Con muốn gì?
+
+00:19:21.995 --> 00:19:23.587
+Sữa xoài?
+
+00:19:38.144 --> 00:19:41.443
+- Nhà?
+- Chúng ta đã chờ con mãi, Coraline.
+
+00:19:42.015 --> 00:19:43.312
+- Chờ cháu?
+- Ừ
+
+00:19:43.383 --> 00:19:45.943
+Nơi nay chẳng còn như trước nếu thiếu vắng con, nhóc ạ.
+
+00:19:46.019 --> 00:19:47.748
+Cháu không biết làcháu có 1 người mẹ khác.
+
+00:19:47.820 --> 00:19:50.653
+Tất nhiên là con có rồi. Ai cũng có cả.
+
+00:19:51.057 --> 00:19:52.524
+- Thật không?
+- Uh-huh.
+
+00:19:52.592 --> 00:19:56.426
+Sau khi ăn xong, mình sẽ chơi nhé.
+
+00:19:59.265 --> 00:20:01.460
+Chơi trò trốn tìm hả?
+
+00:20:01.534 --> 00:20:05.368
+Chính xác. Trốn tìm trong mưa.
+
+00:20:06.573 --> 00:20:08.598
+Mưa nào đâu?
+
+00:20:10.476 --> 00:20:13.274
+- Nhỡ bùn đất dơ thì sao?
+- Ở đây chúng ta thích bùn đất.
+
+00:20:13.346 --> 00:20:16.406
+Đắp mặt bùn này, tắm bùn này, chơi bùn này.
+
+00:20:17.283 --> 00:20:20.514
+- Bùn rất tốt để giải độc cây sồi độc.
+- Làm sao cô biết cháu ...
+
+00:20:21.321 --> 00:20:26.418
+Cháu thích chơi lắm, nhưng cháu nên về nhà với mẹ kia thì hơn.
+
+00:20:26.492 --> 00:20:28.460
+Nhưng ta là mẹ kia của con mà.
+
+00:20:28.528 --> 00:20:32.931
+Ý cháu là mẹ kia nữa của cháu ấy.
+Mẹ số 1 ấy?
+
+00:20:35.335 --> 00:20:37.132
+Cháu nghĩ cháu nên đi ngủ thì hơn.
+
+00:20:37.203 --> 00:20:39.603
+Dĩ nhiên rồi cưng ạ.Tất cả đã sẵn sàng.
+
+00:20:39.672 --> 00:20:41.970
+- Nhưng
+- Đi theo ta nào, cô bé buồn ngủ.
+
+00:20:52.085 --> 00:20:54.485
+- Wow.
+Xin chào Coraline.
+
+00:20:54.554 --> 00:20:57.284
+Xin chào, xin chào, xin chào
+
+00:20:57.357 --> 00:20:59.985
+- Sững sờ gì vậy em yêu?
+- Xin chào.
+
+00:21:06.966 --> 00:21:09.332
+&lt;i&gt;Cậu thế nào rồi, Loper?&lt;/i&gt;
+
+00:21:09.402 --> 00:21:11.336
+&lt;i&gt;Đôi ủng với mũ len của cậu đâu?&lt;/i&gt;
+
+00:21:11.404 --> 00:21:14.202
+Ôi lạy chúa! Các bạn của tớ, các cậu sao rồi?
+
+00:21:14.274 --> 00:21:17.300
+Tớ mong đến hè quá
+Cả 2 cậu sẽ đến phải không?
+
+00:21:17.377 --> 00:21:20.471
+&lt;i&gt;- chúng tớ đã tới đây sẵn rồi, Coraline:
+- Ở Oregon:&lt;/i&gt;
+
+00:21:23.549 --> 00:21:24.914
+Ồ.
+
+00:21:25.685 --> 00:21:27.016
+Bùn à.
+
+00:21:37.130 --> 00:21:39.291
+- Hẹn gặp lại con nhé.
+
+00:22:07.093 --> 00:22:09.857
+Hết rồi, vết thương từ cành sồi độc! Hết rồi!
+
+00:22:14.200 --> 00:22:15.326
+Huh.
+
+00:22:19.272 --> 00:22:21.137
+Nó thật đến khó tin mẹ ạ.
+
+00:22:21.207 --> 00:22:24.176
+Chỉ là mẹ không phải mẹ.
+Mẹ là mẹ kia của con.
+
+00:22:24.243 --> 00:22:26.040
+Nút thay vì mắt hở.
+
+00:22:26.112 --> 00:22:29.172
+Coraline, con chỉ muốn mơ ăn một mớ gà thôi.
+
+00:22:29.248 --> 00:22:30.840
+Ít ra cũng phải nhớ uống vitamin tổng hợp của con chứ.
+
+00:22:30.917 --> 00:22:32.179
+Ba cũng ở trong mơ ba ạ.
+
+00:22:32.251 --> 00:22:35.846
+Ba mặc bộ pijama trông rất hoang dã.
+và đi dép lê màu cam.
+
+00:22:36.189 --> 00:22:39.750
+Màu cam?
+Dép của ba màu xanh cơ mà.
+
+00:22:39.826 --> 00:22:43.262
+Suỵt, con có thể lấy cho ba một ít
+thứ bùn kì diệu mà con nói đấy không?
+
+00:22:43.329 --> 00:22:46.355
+Ba có vấn đề khá nghiêm trọng với
+mấy cục mụn ở ...
+
+00:22:50.002 --> 00:22:52.937
+Nếu Charlie Jones Thiệt muốn bài viết của mình được biên tập lại.
+
+00:22:53.005 --> 00:22:55.200
+Thì ông ấy nên thôi trò này ngay đi.
+
+00:22:57.543 --> 00:23:00.103
+Coraline, sao con không đi xuống dưới chơi nhỉ?
+
+00:23:00.179 --> 00:23:03.808
+Mẹ nghĩ những bà diễn viên ấy
+Sẽ thích nghe về giấc mơ của con.
+
+00:23:03.883 --> 00:23:07.649
+Bà Spink và Forcible ấy ạ?
+Nhưng mẹ bảo họ ngớ ngẩn mà?
+
+00:23:07.854 --> 00:23:09.151
+Mmm-hmm.
+
+00:23:20.900 --> 00:23:25.894
+Bobinsky. Bobinsky. Bobinsky.
+
+00:23:49.762 --> 00:23:51.093
+Hello?
+
+00:23:52.165 --> 00:23:55.396
+Cháu nghĩ thư của bác bị gửi nhầm, nên cháu đem qua đây.
+
+00:23:55.468 --> 00:23:57.368
+Cháu để nó ở ngoài nhé, hay là ...
+
+00:24:07.947 --> 00:24:09.278
+Hmm.
+
+00:24:11.551 --> 00:24:12.779
+Bí mật nhé!
+
+00:24:14.287 --> 00:24:17.279
+Gánh xiếc chuột nhảy nổi tiếng chưa sẵn sàng đâu,
+
+00:24:19.158 --> 00:24:20.750
+Cô bé ạ.
+
+00:24:21.394 --> 00:24:22.759
+Gánh xiếc?
+
+00:24:22.895 --> 00:24:23.987
+Ồ, ừm...
+
+00:24:24.063 --> 00:24:26.531
+Cháu mang cái này tới cho bác.
+
+00:24:33.439 --> 00:24:34.531
+Huh?
+
+00:24:34.607 --> 00:24:36.734
+Những mẫu phomát mới.
+
+00:24:40.480 --> 00:24:45.918
+&lt;i&gt;Cô bé rất thông minh khi dùng cái cớ nhầm thư
+Để lẻn vào nhà bác và nhìn trộm những con mooshkas?&lt;/i&gt;
+
+00:24:46.219 --> 00:24:48.244
+&lt;i&gt;- Mooshkas?
+- Những con chuột!&lt;/i&gt;
+
+00:24:49.288 --> 00:24:50.414
+Ồ!
+
+00:24:50.490 --> 00:24:53.823
+Xin lỗi, cháu là Coraline Jones.
+
+00:24:54.227 --> 00:24:56.752
+Và bác là Bobinsky xuất sắc.
+
+00:24:59.131 --> 00:25:01.691
+Nhưng hãy gọi bác là Mít tơ Bê
+
+00:25:01.767 --> 00:25:04.759
+Vì ta biết là ta rất xuất sắc .
+
+00:25:11.577 --> 00:25:12.976
+Ha!
+
+00:25:13.045 --> 00:25:18.779
+Cháu thấy đấy Caroline, vấn đề là...
+Những bài hát mới của bác theo nhịp "ồm pà, ồm pà"
+
+00:25:18.851 --> 00:25:22.548
+Nhưng những con chuột nhảy chỉ có thể "tút tút"
+kiểu kiểu vậy
+
+00:25:22.622 --> 00:25:26.217
+Cũng được nhưng không thực sự xuất sắc lắm.
+
+00:25:26.292 --> 00:25:30.956
+Vì vậy, bác chuyển sang sử dụng loại phómát mạnh mẽ hơn.
+Và hãy chờ xem, sớm thôi.
+
+00:25:33.566 --> 00:25:37.058
+Ăn củ cải đường này đi, nó sẽ làm con khỏe.
+
+00:25:39.205 --> 00:25:41.867
+&lt;i&gt;Do svidaniya, Caroline.( Tiếng Nga: tạm biệt)&lt;/i&gt;
+
+00:25:43.442 --> 00:25:45.273
+Coraline.
+
+00:25:51.350 --> 00:25:54.342
+Ồm pà, Ồm pà. Tút tút. Tút tút.
+
+00:25:54.420 --> 00:25:56.115
+Này, Caroline!
+
+00:25:57.456 --> 00:25:58.718
+Đợi đã!
+
+00:25:58.791 --> 00:25:59.917
+Khôông!
+
+00:26:04.330 --> 00:26:07.458
+Những con chuột nhờ bác nhắn với cháu một chuyện.
+
+00:26:07.533 --> 00:26:09.592
+Những ... con chuột nhảy?
+
+00:26:09.669 --> 00:26:14.038
+Chúng báo, "đừng đi qua cánh cửa nhỏ đấy"
+
+00:26:15.741 --> 00:26:17.299
+Con có biết gì về việc ấy không?
+
+00:26:17.376 --> 00:26:22.973
+Cánh cửa phía sau giấy dán tường ạ?
+Nhưng nó bị xây bít rồi mà ?
+
+00:26:23.182 --> 00:26:26.242
+Vậy bác xin lỗi. Không có gì đâu.
+
+00:26:26.519 --> 00:26:29.488
+Đôi khi lũ chuột cũng hơi lung tung.
+
+00:26:32.558 --> 00:26:34.617
+Chúng còn gọi sai tên con đấy,  con biết không
+
+00:26:34.694 --> 00:26:37.788
+Chúng gọi con là Coraline thay vì là Caroline.
+
+00:26:37.863 --> 00:26:41.856
+Hoàn toàn không gọi là Caroline
+Có lẽ là bác bắt chúng tập nhiều quá chăng.
+
+00:27:09.004 --> 00:27:12.931
+Không được huýt sáo trong nhà.
+
+00:27:20.673 --> 00:27:23.574
+Đừng sủa nữa nào.
+
+00:27:24.210 --> 00:27:26.770
+Rất vui được gặp cháu, Caroline.
+
+00:27:26.846 --> 00:27:29.576
+Cháu vào nhà nhé, các cô đang chơi bài.
+
+00:27:29.649 --> 00:27:31.776
+Cháu vẫn là Coraline, cô Spink ạ.
+
+00:27:31.851 --> 00:27:34.183
+Miriam! Đặt bếp đun nước đi!
+
+00:27:45.464 --> 00:27:48.262
+April, tôi nghĩ cô đang bị theo đuôi đấy.
+
+00:27:48.334 --> 00:27:51.997
+Đấy là hàng xóm mới của chúng ta, Miriam à. Coraline.
+
+00:27:52.738 --> 00:27:54.797
+Cô bé sẽ được uống trà Ô Long.
+
+00:27:54.874 --> 00:27:58.571
+Ồ! không, không, không.
+Tôi nghĩ cô bé sẽ thích trà lài hơn.
+
+00:27:58.644 --> 00:28:00.612
+Không, trà Ô long
+
+00:28:00.680 --> 00:28:03.342
+Được thôi, trà lài vậy.
+
+00:28:07.253 --> 00:28:09.016
+Xuống đi nào.
+
+00:28:16.595 --> 00:28:18.722
+Đấy là những con chó thật hết ạ?
+
+00:28:19.231 --> 00:28:22.223
+Những thiên thần đáng yêu đã lìa xa cô.
+
+00:28:22.301 --> 00:28:26.601
+Không muốn xa lìa chúng
+Nên các cô đã nhồi bông chúng lại này.
+
+00:28:26.672 --> 00:28:29.266
+Kia là Hamish đời thứ 3...
+
+00:28:29.508 --> 00:28:31.476
+Ăn một miếng nào.
+
+00:28:31.544 --> 00:28:36.345
+Đây là kẹo bơ được làm thủ công tại Brighton đấy.
+Chất lượng tốt nhất trên thế giới.
+
+00:28:36.415 --> 00:28:39.509
+Đời thứ ba, đời thứ chín, ừ nhỉ.
+Đời thứ tư, đúng rồi.
+
+00:28:39.585 --> 00:28:42.884
+Và Jock con, Jock ba
+Jock đời thứ ba, thứ tư
+
+00:28:43.155 --> 00:28:46.318
+Và đó là em họ thứ 2 của Jock
+đứa thứ 3 bị đem đi rồi
+
+00:28:47.093 --> 00:28:49.254
+Cô sẽ xem cho cháu nếu cháu muốn.
+
+00:28:50.429 --> 00:28:53.592
+- Xem gì ạ?
+- Xem bói bằng lá trà, cưng ah.
+
+00:28:53.666 --> 00:28:58.399
+Chúng sẽ nói cô biết về tương lai của cháu.
+Uống đi nào.
+
+00:28:59.472 --> 00:29:03.465
+Không, đừng uống hết. Đừng uống hết
+Đưa cho cô nào.
+
+00:29:06.812 --> 00:29:08.211
+Ồ!
+
+00:29:08.948 --> 00:29:10.415
+Ồ, Caroline.
+
+00:29:10.483 --> 00:29:13.509
+Caroline, Caroline, Caroline.
+
+00:29:13.586 --> 00:29:16.146
+Cháu đang trong tình trạng rất nguy hiểm.
+
+00:29:16.722 --> 00:29:20.453
+Thôi nào, đưa cái ly đây April
+Mắt cô nhìn sai cả rồi.
+
+00:29:20.526 --> 00:29:23.757
+Mắt tôi? Mắt cô thì mù như dơi ấy.
+
+00:29:23.829 --> 00:29:27.162
+Không sao đâu cháu yêu.
+
+00:29:27.500 --> 00:29:33.496
+Có tin tốt này, có một con quỷ cao lớn
+và đẹp trai trong tương lai của cháu.
+
+00:29:33.572 --> 00:29:36.006
+- Con gì??
+- Thôi nào Miriam
+
+00:29:36.075 --> 00:29:40.637
+Cô đang cầm nó sai rồi. Thấy không? Nguy hiểm.
+
+00:29:40.713 --> 00:29:42.010
+Các cô thấy gì?
+
+00:29:42.081 --> 00:29:45.073
+Cô thấy một bàn tay rất quái dị
+
+00:29:45.151 --> 00:29:47.244
+Cô thấy một con hươu cao cổ.
+
+00:29:47.319 --> 00:29:50.755
+Hươu cao cổ không rớt từ trên trời xuống như vậy, Miriam.
+
+00:29:50.823 --> 00:29:51.881
+Ô, lạy chúa.
+
+00:29:53.125 --> 00:29:55.423
+Vậy cháu nên làm gì đây?
+
+00:29:55.494 --> 00:29:57.962
+Đừng bao giờ mặc đồ xanh trong phòng thay đồ nhé.
+
+00:29:58.030 --> 00:30:00.590
+Và nhớ tìm một cái thang thật cao.
+
+00:30:00.666 --> 00:30:02.964
+Và nhớ là phải thật cẩn thận.
+
+00:30:05.404 --> 00:30:08.703
+Thế cháu qua đây có việc gì không?
+
+00:30:09.775 --> 00:30:13.040
+Không ạ, nhưng cháu cảm ơn về ly trà và lời cảnh báo ạ.
+
+00:30:13.112 --> 00:30:15.307
+Toodle-oo.
+Cheery-bye.
+
+00:30:22.555 --> 00:30:23.749
+Nguy hiểm?
+
+00:30:42.775 --> 00:30:44.436
+Tuyệt, kẻ rình mò.
+
+00:30:44.510 --> 00:30:45.568
+Á!
+
+00:30:46.212 --> 00:30:49.807
+Tớ không rình mò cậu, tụi tớ đang săn ốc sên chuối.
+
+00:30:49.882 --> 00:30:51.611
+"Tụi tớ" là sao?
+
+00:30:54.053 --> 00:30:58.217
+Ha! Con mèo của cậu không phải là mèo hoang, nó là một con mèo bệnh.
+
+00:30:58.290 --> 00:31:01.191
+Cái gì? Không, nó ngại bị ướt chân thôi.
+
+00:31:01.260 --> 00:31:02.591
+Mèo bệnh.
+
+00:31:06.565 --> 00:31:10.661
+Thế con búp bê ấy, cậu làm cho giống tớ ah?
+
+00:31:10.736 --> 00:31:13.261
+Không không, tớ tìm thấy nó đã như vậy sẵn rồi.
+
+00:31:13.739 --> 00:31:17.402
+Nó còn có trước cả bà cơ.
+Có thể là có từ khi có ngôi nhà của bà ấy.
+
+00:31:17.476 --> 00:31:21.207
+Thôi nào.
+tóc xanh, ủng của tớ và cả cái áo khoác này?
+
+00:31:21.280 --> 00:31:24.511
+Đà đa! Hãy xem quái vật ốc sên này.
+
+00:31:26.552 --> 00:31:28.417
+Cậu cũng y như họ.
+
+00:31:28.854 --> 00:31:29.946
+Hở?
+
+00:31:30.022 --> 00:31:33.185
+Ba mẹ tớ ấy,
+Họ cũng không chịu nghe tớ nói gì cả.
+
+00:31:33.259 --> 00:31:34.886
+ừ-hử. Cậu giúp tớ với.
+
+00:31:41.467 --> 00:31:42.695
+Hừm.
+
+00:31:42.768 --> 00:31:43.826
+Eo!
+
+00:31:50.976 --> 00:31:54.412
+Tớ chưa bao giờ đi vào Lâu Đài Màu Hồng đó .
+
+00:31:54.480 --> 00:31:56.107
+Cậu cứ đùa.
+
+00:31:56.181 --> 00:31:59.947
+Bà sẽ giết tớ.
+tớ nghĩ chắc cái nhà đó nguy hiểm hay sao ý.
+
+00:32:00.786 --> 00:32:02.310
+Nguy hiểm gì?
+
+00:32:02.388 --> 00:32:05.721
+- Ừ thì bà tớ có 1 người chị sinh đôi.
+- Thì sao?
+
+00:32:06.425 --> 00:32:09.690
+Hồi còn nhỏ, bà cô bị bắt cóc.
+
+00:32:09.762 --> 00:32:11.787
+Bà nói bà cô bị người ta cướp đi.
+
+00:32:12.264 --> 00:32:13.663
+Cướp đi là sao?
+
+00:32:15.067 --> 00:32:16.796
+Cậu nghĩ sao?
+
+00:32:17.236 --> 00:32:20.535
+Tôi không biết. Chắc bà cô chỉ bỏ nhà đi bụi thôi.
+
+00:32:21.106 --> 00:32:22.664
+LOVAT: Wyborne!
+
+00:32:23.442 --> 00:32:26.309
+- Tớ phải đi rồi.
+- Đợi tí.
+
+00:33:41.387 --> 00:33:44.379
+- Mừng con trở lại, cục cưng ạ.
+- Chào mẹ!
+
+00:33:44.456 --> 00:33:48.017
+Con thật chu đáo khi gửi mẹ miếng pho mát thơm ngon này, Coraline.
+
+00:33:48.093 --> 00:33:51.688
+Pho mát nào? À, cái mồi nhử chuột.
+
+00:33:52.431 --> 00:33:56.868
+Con đi gọi ba về nhé?
+Chắc giờ ba cũng đói meo rồi.
+
+00:33:57.469 --> 00:33:59.300
+Gọi ba khác của con đúng không.
+
+00:33:59.371 --> 00:34:02.272
+Người ba tốt hơn của con, cưng ạ.
+Ba đang ở ngoài vườn.
+
+00:34:02.341 --> 00:34:04.366
+Nhưng ba mẹ con không bao giờ làm vườn.
+
+00:34:06.812 --> 00:34:07.870
+Mmm!
+
+00:34:07.946 --> 00:34:09.436
+Đi đi con.
+
+00:34:39.812 --> 00:34:40.836
+Ồ!
+
+00:35:00.999 --> 00:35:02.398
+Hey.
+
+00:35:03.635 --> 00:35:05.364
+Con thích cái vườn của ba ghê!
+
+00:35:05.871 --> 00:35:08.362
+Vườn của chúng ta, Coraline ạ.
+
+00:35:12.845 --> 00:35:14.506
+Đừng cù ta nữa!
+
+00:35:16.482 --> 00:35:18.279
+Con gái đang lâm nguy.
+
+00:35:31.130 --> 00:35:34.395
+Đừng cù nữa, mấy cái hoa đầu rồng này.
+
+00:35:37.302 --> 00:35:41.398
+Mẹ bảo tới giờ ăn tối rồi, à ... ăn sáng chứ, nói chung là ăn.
+
+00:35:41.907 --> 00:35:44.933
+Leo lên nào cô bé.
+ba muốn cho con xem cái này.
+
+00:35:55.220 --> 00:35:57.279
+Con không thể tin là ba làm cái này cho con
+
+00:35:57.356 --> 00:35:59.221
+Mẹ bảo có lẽ con sẽ thích.
+
+00:35:59.291 --> 00:36:02.488
+Con à, bà ấy biết con rõ như lòng bàn tay vậy.
+
+00:36:05.864 --> 00:36:07.764
+Mmm. Ngon quá.
+
+00:36:07.833 --> 00:36:10.393
+Con thích ăn tối-sáng lắm.
+
+00:36:10.469 --> 00:36:12.664
+Coraline, Mr Bobinsky có mời con
+
+00:36:12.738 --> 00:36:15.400
+Đến xem buổi biểu diễn chuột nhảy của ông ấy
+sau bữa tối đấy.
+
+00:36:15.474 --> 00:36:19.672
+Thật ah? Cậu Wybie biết-tuốt ấy bảo
+toàn là do Mít tơ Bê tưởng tượng ra thôi.
+
+00:36:19.745 --> 00:36:20.939
+Con biết là cậu ấy sai mà.
+
+00:36:21.013 --> 00:36:23.709
+Tất cả mọi thứ trong thế giới này đều đúng cả con à.
+
+00:36:23.782 --> 00:36:28.845
+Ba mẹ sẽ dọn dẹp khi con và bạn con lên trên kia chơi nhé.
+
+00:36:28.921 --> 00:36:30.286
+Bạn con?
+
+00:36:32.457 --> 00:36:37.224
+Trời, thêm một Wybie nữa ah.
+Xin chào, Why-Were-You-Born (Sao-Mày-Lại-Ra-Đời)
+
+00:36:39.398 --> 00:36:40.660
+Xin chào!
+
+00:36:41.533 --> 00:36:45.936
+Mẹ nghĩ con sẽ thích nó hơn
+nếu nó ít nói hơn một chút. Nên mẹ đã sửa nó lại.
+
+00:36:46.905 --> 00:36:49.999
+- Vậy cậu ấy hoàn toàn không thể nói chuyện ạ?
+- Không.
+
+00:36:50.342 --> 00:36:51.468
+Hmm.
+
+00:36:51.543 --> 00:36:52.874
+Con thích thế này đấy.
+
+00:36:52.945 --> 00:36:55.573
+Ừ, 2 đứa đi chơi vui nhé.
+
+00:36:59.218 --> 00:37:03.086
+Sao cậu có vẻ vui thế nhỉ
+khi cậu không thể nói gì cả
+
+00:37:05.724 --> 00:37:08.386
+Có đau không, khi bà ấy ... (khâu miệng cậu)
+
+00:37:20.872 --> 00:37:22.669
+Whoa!
+
+00:37:25.410 --> 00:37:26.638
+Hết xẩy!
+
+00:37:44.730 --> 00:37:45.754
+Xem cậu kìa
+
+00:37:48.800 --> 00:37:53.737
+Thưa quý ông quý bà,
+nhằm giúp quý vị sướng tai vui mắt
+
+00:37:54.573 --> 00:37:56.837
+và tim đập loạn xạ,
+
+00:37:56.908 --> 00:38:00.639
+Tôi, Sergei Alexander Bobinsky,
+
+00:38:00.712 --> 00:38:04.045
+xin giới thiệu một chương trình
+
+00:38:05.050 --> 00:38:08.781
+thật đặc sắc và xuất sắc
+
+00:38:09.521 --> 00:38:12.547
+Gánh xiếc chuột nhảy!
+
+00:38:16.161 --> 00:38:17.389
+Tên của tớ
+
+00:38:40.085 --> 00:38:41.950
+Thật là tuyệt vời, Wybie ạ
+
+00:38:58.103 --> 00:38:59.161
+Wow!
+
+00:39:18.023 --> 00:39:21.720
+Yahoo! Thật là hay quá đi.
+
+00:39:22.260 --> 00:39:26.219
+Cảm ơn, cảm ơn cô bé.
+
+00:39:42.247 --> 00:39:46.445
+Hay lắm, Mít tơ Bê. Nó thật là... thật là...
+
+00:39:46.518 --> 00:39:47.883
+Ah...
+
+00:39:47.953 --> 00:39:49.113
+Tuyệt vời!
+
+00:39:49.187 --> 00:39:54.591
+Cháu được chào đón bất cứ khi nào cháu muốn.
+Và cả người bạn tốt này của cháu nữa..
+
+00:39:55.127 --> 00:39:57.357
+&lt;i&gt;Do svidaniya, Coraline.
+(Tạm biệt - Tiếng Nga)&lt;/i&gt;
+
+00:40:40.906 --> 00:40:44.205
+Có cả vườn bí, những con thú trông giống bong bóng
+và cả những bông hoa đầu rồng nữa.
+
+00:40:44.276 --> 00:40:47.643
+Và ở trên lầu, con thấy một gánh xiếc chuột nhảy nữa.
+
+00:40:47.712 --> 00:40:50.203
+Không phải là giả bộ giống như là ông điên phía trên nhà mình đâu.
+
+00:40:50.282 --> 00:40:51.909
+Em không muốn đi chung với anh ah?
+
+00:40:51.983 --> 00:40:54.850
+Đừng lo, Charlie.
+Họ sẽ thích catalô mới mà.
+
+00:40:54.920 --> 00:40:56.911
+Ít ra họ sẽ thích những chương em viết.
+
+00:40:56.988 --> 00:41:00.048
+Mẹ không bảo ông ấy điên, Coraline.
+Ông ấy say xỉn.
+
+00:41:00.459 --> 00:41:03.895
+Vậy hẹn gặp lại con sau nhé,
+cô bé mơ mộng.
+
+00:41:03.962 --> 00:41:06.760
+Bố, con không phải mới có 5 tuổi.
+
+00:41:19.657 --> 00:41:21.615
+Giảm giá 50% đồng phục
+nhân ngày Tổng Thống Hoa Kỳ
+
+00:41:32.657 --> 00:41:36.115
+Đổi cả vương quốc lấy 1 con ngựa ...
+
+00:41:48.907 --> 00:41:50.135
+Bỏ đôi găng ấy lại đi.
+
+00:41:50.208 --> 00:41:55.908
+Nhưng mẹ ah, cả trường sẽ chỉ mặc những bộ đồng phục
+xám chán ngắt, không ai có thứ này cả.
+
+00:41:56.548 --> 00:41:58.106
+Bỏ lại đi.
+
+00:42:00.118 --> 00:42:02.052
+Mẹ kia của con sẽ mua nó cho con.
+
+00:42:02.120 --> 00:42:04.748
+Có lẽ bà ấy nên mua tất cả đồ đạc cho con thì hơn.
+
+00:42:09.160 --> 00:42:11.355
+Vậy mẹ nghĩ sao về mọi thứ
+trong 'căn nhà kia'?
+
+00:42:11.429 --> 00:42:15.195
+Mẹ không biết.
+Nhưng không phải là một gia đình Jones mạo danh.
+
+00:42:15.767 --> 00:42:18.065
+- Vậy tại sao mẹ lại khóa cửa lại?
+- Oh!
+
+00:42:18.136 --> 00:42:22.470
+Mẹ thấy phân chuột trong nhà,
+nên mẹ khóa lại để con thấy yên tâm hơn.
+
+00:42:23.041 --> 00:42:27.501
+Bọn chúng là chuột nhảy, mẹ ah.
+và những giấc mơ không hề nguy hiểm.
+
+00:42:27.579 --> 00:42:30.639
+Đấy là những thứ làm con thấy vui nhất
+từ khi mình chuyển đến đây.
+
+00:42:30.715 --> 00:42:34.947
+- Đi học con sẽ thấy vui mà.
+- Với những bộ đồng phục ngớ ngẩn ấy?
+
+00:42:36.254 --> 00:42:38.051
+Con cũng nên thử chứ.
+
+00:42:51.169 --> 00:42:55.299
+Con nghĩ sao về việc ăn trưa với
+mù tạt, tương cà, và salad cuộn?
+
+00:42:55.373 --> 00:42:57.102
+Mẹ đùa ah?
+
+00:42:57.576 --> 00:43:02.343
+Đằng nào cũng phải đi mua thêm đồ ăn.
+Bố con đang có dự tính gì đó đặc biệt.
+
+00:43:02.414 --> 00:43:04.279
+Ghê tởm. (kết hợp giữa Gross &amp; Disgusting)
+
+00:43:04.349 --> 00:43:07.182
+Con có muốn đi không?
+Con có thể lựa gì đấy mà con thích.
+
+00:43:07.252 --> 00:43:09.220
+Oh, như đôi găng tay ah.
+
+00:43:10.388 --> 00:43:15.291
+Nghe này, Coraline, nếu mọi thứ hôm nay thuận lợi
+Mẹ hứa sẽ mua cho con.
+
+00:43:15.860 --> 00:43:17.953
+Mẹ luôn luôn hứa như thế.
+
+00:43:21.266 --> 00:43:22.756
+Mẹ sẽ không đi lâu đâu.
+
+00:43:23.702 --> 00:43:25.670
+Nhưng con có thể sẽ bận lâu đây.
+
+00:44:06.177 --> 00:44:07.906
+Con biết nó có thật mà.
+
+00:44:31.503 --> 00:44:33.027
+&lt;i&gt;Coraline thân yêu,&lt;/i&gt;
+
+00:44:33.104 --> 00:44:37.234
+&lt;i&gt;Cô Spink và Cô Forcible
+đã mời con xuống dưới lầu sau bữa trưa&lt;/i&gt;
+
+00:44:37.308 --> 00:44:41.074
+&lt;i&gt;Mẹ nghĩ con thích bộ đồ mẹ may cho con
+Yêu con. Mẹ!&lt;/i&gt;
+
+00:44:53.391 --> 00:44:55.450
+Wybie cũng có một con mèo giống mày ở nhà.
+
+00:44:57.629 --> 00:45:00.894
+Không phải Wybie ít nói đâu.
+Wybie mà nói nhiều cơ.
+
+00:45:01.733 --> 00:45:03.928
+&lt;i&gt;Chắc mày là con mèo kia.&lt;/i&gt;
+
+00:45:04.002 --> 00:45:07.995
+Không. Tôi không phải là cái gì khác cả.
+Tôi là chính tôi.
+
+00:45:08.606 --> 00:45:11.404
+Um...tao có thể thấy mày không có mắt bằng nút
+
+00:45:11.476 --> 00:45:15.037
+nhưng nếu mày cũng là con mèo đấy,
+làm sao mày có thể nói được?
+
+00:45:16.181 --> 00:45:17.614
+Tôi có thể, thế thôi.
+
+00:45:18.650 --> 00:45:20.083
+Ở nhà mèo không biết nói mà.
+
+00:45:20.151 --> 00:45:21.516
+- Không?
+- Ừ, không.
+
+00:45:21.586 --> 00:45:25.352
+Vậy à. Cô có vẻ cái gì cũng biết nhỉ.
+
+00:45:25.423 --> 00:45:28.984
+Còn tôi cũng chỉ là một con mèo hom hem yếu đuối.
+
+00:45:29.994 --> 00:45:34.226
+Quay lại đây đi mà?
+Tao xin lỗi đã gọi mày như vậy mà.
+
+00:45:34.299 --> 00:45:35.596
+Mày qua đây bằng cách nào thế?
+
+00:45:35.667 --> 00:45:38.329
+Tôi đến đây cũng khá lâu rồi.
+
+00:45:41.406 --> 00:45:43.237
+Đây là một trò chơi nho nhỏ.
+
+00:45:43.641 --> 00:45:47.702
+Bà ta ghét mèo và luôn tìm cách để cản tôi vào,
+
+00:45:47.779 --> 00:45:51.579
+Nhưng tất nhiên, bà ấy không thể cản.
+Tôi đến và đi theo ý muốn.
+
+00:45:51.649 --> 00:45:53.617
+&lt;i&gt;Mẹ kia ghét mèo ah?&lt;/i&gt;
+
+00:45:53.685 --> 00:45:56.779
+Không giống người mẹ nào tôi từng được biết.
+
+00:45:56.855 --> 00:45:59.187
+Mày nói gì thế? Bà ấy rất tốt mà?
+
+00:45:59.924 --> 00:46:05.123
+Có thể cô nghĩ đây là một thế giới tuyệt vời
+nơi giấc mơ thành hiện thực, nhưng cô bé lầm rồi.
+
+00:46:05.196 --> 00:46:07.494
+&lt;i&gt;Wybie kia kể tôi nghe đấy.&lt;/i&gt;
+
+00:46:07.565 --> 00:46:09.726
+Vô lý, cậu ấy đâu nói được.
+
+00:46:09.801 --> 00:46:11.894
+Có thể cậu ấy không nói với cô.
+
+00:46:11.970 --> 00:46:16.339
+Còn loài mèo chúng tôi,
+có khả năng cảm nhận siêu việt hơn hẳn con người
+
+00:46:16.407 --> 00:46:18.773
+có thể thấy, ngừi và ...
+
+00:46:19.444 --> 00:46:20.502
+Suỵt!
+
+00:46:20.578 --> 00:46:25.038
+Tôi nghe thấy gì đó, ngay ở ...
+
+00:47:06.090 --> 00:47:07.455
+Hey, Wybie.
+
+00:47:21.673 --> 00:47:23.698
+Cô ấy gần như không mặc gì!
+
+00:47:23.775 --> 00:47:27.734
+&lt;i&gt;Em là nàng tiên cá
+trên khắp 7 biển&lt;/i&gt;
+
+00:47:27.812 --> 00:47:31.543
+&lt;i&gt;người làm tan vỡ trái tim bao thủy thủ&lt;/i&gt;
+
+00:47:31.616 --> 00:47:35.609
+&lt;i&gt;Nếu anh đi bơi
+với những phụ nữ có đôi chân vòng kiềng&lt;/i&gt;
+
+00:47:35.687 --> 00:47:39.851
+&lt;i&gt;em sẽ đánh cắp trái tim yếu mềm của anh&lt;/i&gt;
+
+00:47:52.570 --> 00:47:53.901
+Ôi lạy chúa.
+
+00:47:53.972 --> 00:47:57.999
+&lt;i&gt;Một phù thủy nơi biển sâu
+Có thể lướt qua những con sóng&lt;/i&gt;
+
+00:47:58.076 --> 00:48:01.637
+&lt;i&gt;Khiến những chàng thủy thủ lạc lối&lt;/i&gt;
+
+00:48:01.713 --> 00:48:07.276
+&lt;i&gt;Nhưng 1 nữ thần biển cả thực thụ
+Phải khoát những tấm áo rực rỡ&lt;/i&gt;
+
+00:48:07.352 --> 00:48:12.517
+&lt;i&gt;Để phô bày vẻ đạp quyến rũ &lt;/i&gt;
+
+00:48:17.729 --> 00:48:22.257
+&lt;i&gt;Ồ Hãy cẩn thận với những con tàu già
+ngực to quá xá cỡ&lt;/i&gt;
+
+00:48:22.333 --> 00:48:26.099
+&lt;i&gt;Hãy đuổi chúng ra khỏi bữa tiệc &lt;/i&gt;
+
+00:48:26.170 --> 00:48:28.161
+&lt;i&gt;Ta giàu dinh dưỡng hơn này&lt;/i&gt;
+
+00:48:28.239 --> 00:48:30.400
+&lt;i&gt;Ngươi hôi tanh như cá&lt;/i&gt;
+
+00:48:30.475 --> 00:48:32.602
+&lt;i&gt;Có phải ta nghe ngươi gọi ta là nữ thần?&lt;/i&gt;
+
+00:48:32.677 --> 00:48:35.009
+&lt;i&gt;Ngươi chỉ là rong rêu ganh tỵ với ta&lt;/i&gt;
+
+00:48:35.079 --> 00:48:37.240
+&lt;i&gt;Con phù thủy đuôi cá&lt;/i&gt;
+
+00:48:37.315 --> 00:48:40.807
+&lt;i&gt;Không , Ta, đẹp như bức tranh :Thần Vệ Nữ Ra Đời&lt;/i&gt;
+
+00:48:40.885 --> 00:48:43.718
+&lt;i&gt;- Sẽ làm tất cả thủy thủ ngất ngây: : :
+- Sẽ làm tất cả thủy thủ ngất ngây cả ngày&lt;/i&gt;
+
+00:49:13.351 --> 00:49:14.909
+Tớ không dám nhìn đâu.
+
+00:49:14.986 --> 00:49:18.547
+Sẵn sàng biểu diễn chưa, Miriam?
+
+00:49:18.623 --> 00:49:21.922
+Sống để biểu diễn thôi, April ạ.
+
+00:49:41.646 --> 00:49:47.278
+"Kỳ diệu thay là con người!
+Con người mới cao quý làm sao về lý trí!"
+
+00:49:47.352 --> 00:49:49.479
+"Vô tận làm sao về năng khiếu"
+
+00:49:49.554 --> 00:49:53.957
+"Về hình dáng và cử chỉ, thật nhanh nhẹn và đáng khâm phục"
+
+00:49:54.025 --> 00:49:56.755
+" Về hành động, có khác nào thiên thần"
+
+00:49:57.929 --> 00:50:01.695
+"Về trí tuệ, ngang hàng Thượng đế!"
+
+00:50:08.606 --> 00:50:11.939
+"Kiệt tác của tất cả sinh vật"
+
+00:50:15.613 --> 00:50:17.171
+Yeah!
+
+00:50:51.516 --> 00:50:53.108
+Này cô bé.
+
+00:50:53.184 --> 00:50:54.913
+Hay chứ hả?
+
+00:50:54.986 --> 00:50:58.183
+Ồ, vâng. Họ nhảy xuống rồi kéo con ra khỏi ghế.
+
+00:50:58.256 --> 00:51:00.622
+Spink với Forcible,
+nếu như họ chưa già.
+
+00:51:00.691 --> 00:51:05.321
+Họ cải trang già đấy. Rồi sau đó, con bay lượn trên không, chuyện này cứ như...
+
+00:51:05.396 --> 00:51:06.920
+Như là phép màu.
+
+00:51:06.998 --> 00:51:09.193
+Con thích mọi thứ ở đây đúng không Coraline?
+
+00:51:09.267 --> 00:51:10.700
+Ừa.
+
+00:51:10.768 --> 00:51:12.429
+Ngủ ngon,Wybie.
+
+00:51:22.780 --> 00:51:25.840
+Con có thể ở lại đây mãi mãi nếu con muốn.
+
+00:51:26.317 --> 00:51:27.909
+- Thật chứ?
+- Chắc chắn.
+
+00:51:27.985 --> 00:51:31.716
+Chúng ta hát, chúng ta chơi,
+còn mẹ thì nấu cho con những món mà con thích.
+
+00:51:31.789 --> 00:51:34.349
+Có 1 chuyện nhỏ tí tẹo mà chúng ta cần làm.
+
+00:51:34.425 --> 00:51:37.155
+- Chuyện gì vậy?
+- Đó là 1 bất ngờ.
+
+00:51:41.499 --> 00:51:43.694
+Dành cho con đấy, con búp bê nhỏ của mẹ.
+
+00:51:49.574 --> 00:51:51.405
+Màu đen là màu truyền thống.
+
+00:51:52.243 --> 00:51:57.977
+Nhưng nếu con thích màu hồng hay màu đỏ nhạt hay lục nhạt...
+
+00:51:59.617 --> 00:52:01.551
+Dù con có thể làm mẹ ghen tỵ.
+
+00:52:01.619 --> 00:52:04.747
+Không đơi nào!
+Mẹ không được khâu nút vào mắt con!
+
+00:52:04.822 --> 00:52:07.950
+Nhưng chúng ta cần con ừ 1 cái nếu con muốn ở lại đây.
+
+00:52:08.025 --> 00:52:09.822
+Kim sắc lắm, con sẽ không cảm thấy ...
+
+00:52:09.894 --> 00:52:10.952
+Ối!
+
+00:52:12.163 --> 00:52:15.826
+Tùy con quyết định, cưng ạ.
+
+00:52:16.968 --> 00:52:19.163
+Chúng ta chỉ muốn thứ gì tốt nhất cho con thôi.
+
+00:52:19.237 --> 00:52:21.603
+Con đi ngủ. Bây giờ!.
+
+00:52:21.672 --> 00:52:23.765
+- Ngủ à?
+- Trước giờ ăn tối?
+
+00:52:23.841 --> 00:52:26.401
+Con rất là mệt rồi.
+
+00:52:27.612 --> 00:52:30.638
+Con cần kiếm chỗ nào đó để ngủ.
+
+00:52:30.715 --> 00:52:33.741
+Tất nhiên rồi. Để mẹ đưa con về phòng.
+
+00:52:33.818 --> 00:52:36.582
+Không cần đâu.Cảm ơn.
+Mẹ đã làm quá nhiều rồi.
+
+00:52:36.654 --> 00:52:39.680
+Có gì đâu. Và mẹ...
+
+00:52:41.058 --> 00:52:44.050
+Chúng ta không lo lắng gì cả, cưng ạ.
+
+00:52:44.128 --> 00:52:47.393
+Con sẽ mau nhìn sự việc theo cách của chúng ta thôi.
+
+00:53:04.849 --> 00:53:08.114
+Chuyện gì vậy, Coraline?
+Cậu không muốn chơi à?
+
+00:53:09.387 --> 00:53:11.753
+Yeah, tớ muốn ôm mặt cậu!
+
+00:53:12.156 --> 00:53:14.021
+Ôm cái nào!
+
+00:53:14.091 --> 00:53:15.319
+&lt;i&gt;Hey!
+Hey!&lt;/i&gt;
+
+00:53:15.393 --> 00:53:17.554
+&lt;i&gt;nút của cậu đâu rồi, Loper?&lt;/i&gt;
+
+00:53:17.628 --> 00:53:19.687
+&lt;i&gt;Cậu muốn ở lại đây chứ?&lt;/i&gt;
+
+00:53:19.764 --> 00:53:24.497
+Tao đi về nhà đây, lũ rôbốt,
+Và tao sẽ không trở lại đâu.
+
+00:53:31.008 --> 00:53:33.238
+Ngủ đi nào, ngủ đi nào, ngủ đi nào.
+
+00:53:33.311 --> 00:53:34.300
+&lt;i&gt;:Ngủ đi nào:::Ngủ đi nào:&lt;/i&gt;
+
+00:53:34.378 --> 00:53:35.811
+&lt;i&gt;Mẹ kia:
+:::Chỉ cần làm một việc rất nhỏ thôi:&lt;/i&gt;
+
+00:53:35.880 --> 00:53:37.211
+&lt;i&gt;:Ngủ đi nào:::Ngủ đi nào:&lt;/i&gt;
+
+00:53:37.281 --> 00:53:39.044
+&lt;i&gt;Bố kia:
+Kim sắc lắm, con sẽ không cảm thấy ... :&lt;/i&gt;
+
+00:53:39.116 --> 00:53:40.674
+&lt;i&gt;Ngủ đi nào, ngủ đi nào, ngủ đi nào.&lt;/i&gt;
+
+00:53:40.751 --> 00:53:42.844
+&lt;i&gt;Mẹ kia:
+Con sẽ sớm nhìn nhận mọi thứ theo cách của bố mẹ thôi&lt;/i&gt;
+
+00:53:50.695 --> 00:53:52.993
+Mẹ! Bố!
+
+00:53:54.699 --> 00:53:57.862
+Ôi trời, mình vẫn còn ở đây?
+
+00:54:14.619 --> 00:54:15.950
+Ba!
+
+00:54:16.787 --> 00:54:19.585
+Mẹ kia đâu rồi?
+Tôi muốn về nhà.
+
+00:54:20.191 --> 00:54:23.718
+Tất cả mọi thứ sẽ đẹp tươi,
+ngay khi mẹ tươi tình trở lại.
+
+00:54:23.794 --> 00:54:26.024
+Sức mạnh của bà ấy là sức sống của chúng tôi.
+
+00:54:30.568 --> 00:54:33.002
+Không được nói khi mẹ không ở đây.
+
+00:54:33.070 --> 00:54:36.198
+&lt;i&gt;Nếu ông không chịu nói chuyện với tôi,
+Tôi sẽ đi tìm Wybie kia .&lt;/i&gt;
+
+00:54:36.274 --> 00:54:38.174
+- Cậu ấy sẽ giúp tôi.
+- Vô ích thôi.
+
+00:54:38.242 --> 00:54:42.679
+Cậu ấy đã làm mặt buồn,
+và mẹ không thích chuyện đó.
+
+00:55:07.571 --> 00:55:10.267
+Cô nghĩ cô đang làm gì thế?
+
+00:55:10.741 --> 00:55:14.768
+Tôi đang cố thoát khỏi đây.
+Đấy là việc tôi đang làm.
+
+00:55:16.447 --> 00:55:17.573
+Huh?
+
+00:55:17.648 --> 00:55:21.015
+Có điều gì lạ vậy?
+Cái giếng cổ phải ở đây chứ?
+
+00:55:21.085 --> 00:55:23.076
+Không có gì ở đây cả.
+
+00:55:23.154 --> 00:55:25.588
+Đây là phần trống của thế giới này.
+
+00:55:25.656 --> 00:55:28.989
+Bà ta chỉ làm
+những thứ có thể gây ấn tượng với cô.
+
+00:55:29.060 --> 00:55:31.961
+Nhưng tại sao? Tại sao lại là tôi?
+
+00:55:32.430 --> 00:55:35.399
+Bà ta muốn có một cái gì đấy để yêu thương. Tôi nghĩ vậy.
+
+00:55:35.466 --> 00:55:37.934
+Một cái gì đấy không giống bà ta.
+
+00:55:38.002 --> 00:55:42.632
+Hoặc bà ta muốn có gì đấy để ăn chăng.
+
+00:55:42.973 --> 00:55:46.932
+Ăn? Thật là vớ vẩn!
+Mẹ làm sao lại đi ăn thịt con gái.
+
+00:55:47.411 --> 00:55:50.039
+Tôi không biết. Thịt cô có ngon không?
+
+00:55:57.521 --> 00:55:58.510
+Huh?
+
+00:55:59.390 --> 00:56:04.293
+Làm sao ta có thể đi khỏi một nơi
+và vẫn quay trở về nơi ấy?
+
+00:56:06.263 --> 00:56:08.288
+Vòng quanh thế giới.
+
+00:56:08.366 --> 00:56:09.594
+Thế giới nhỏ bé.
+
+00:56:10.901 --> 00:56:12.129
+Đợi chút.
+
+00:56:16.741 --> 00:56:19.232
+Dừng lại! Nó là một chú chuột xiếc đấy!
+
+00:56:28.586 --> 00:56:31.453
+Thường thì tôi không thích chuột cống
+
+00:56:31.522 --> 00:56:34.457
+Nhưng con này đang báo động.
+
+00:56:37.395 --> 00:56:38.760
+Mèo giỏi.
+
+00:57:15.766 --> 00:57:20.726
+Người ta bảo rằng ngay cả những linh hồn kiêu hãnh nhất
+cũng bị khuất phục bởi tình yêu
+
+00:57:25.576 --> 00:57:29.478
+Dĩ nhiên, chocolate thì không bao giờ có hại cả. Con muốn thử một viên không?
+
+00:57:30.815 --> 00:57:34.273
+Chúng là bọ dừa đến từ Zanzibar
+
+00:57:37.822 --> 00:57:42.623
+Tôi muốn về với cha mẹ thật của mình
+
+00:57:43.027 --> 00:57:45.291
+Tôi muốn bà thả tôi ra.
+
+00:57:47.031 --> 00:57:49.431
+Đấy là cách con nói chuyện với mẹ con sao?
+
+00:57:49.500 --> 00:57:52.060
+Bà không phải là mẹ tôi.
+
+00:57:52.136 --> 00:57:56.300
+Xin lỗi mẹ ngay, Coraline!
+
+00:57:57.274 --> 00:57:58.298
+Không!
+
+00:57:59.643 --> 00:58:02.407
+Mẹ đếm từ 1 đến 3
+
+00:58:04.348 --> 00:58:05.576
+Một
+
+00:58:06.851 --> 00:58:08.318
+Hai
+
+00:58:10.821 --> 00:58:11.810
+Ba
+
+00:58:11.889 --> 00:58:12.947
+Oái !!
+
+00:58:13.023 --> 00:58:16.720
+Bà làm gì vậy?Ôi đau quá!!!
+
+00:58:20.164 --> 00:58:23.964
+Mầy chỉ có thể đi ra ngoài khi nào mầy tỏ ra
+là một đứa con gái ngoan.
+
+00:58:36.080 --> 00:58:37.513
+Ai ở đó thế?
+
+00:58:38.115 --> 00:58:43.212
+Suỵt! Im lặng...Bà phù thủy ấy có thể nghe đấy!
+
+00:58:44.722 --> 00:58:47.782
+Cậu.....Cậu muốn nói đến bà mẹ kia đó hả?
+
+00:58:59.203 --> 00:59:00.602
+Các cậu là ai thế?
+
+00:59:01.906 --> 00:59:04.704
+Chúng tôi không nhớ nỗi tên mình
+
+00:59:04.775 --> 00:59:07.903
+nhưng tôi nhớ mẹ ruột của mình
+
+00:59:09.446 --> 00:59:11.437
+Tại sao các cậu lại ở đây?
+
+00:59:11.515 --> 00:59:13.039
+Bà phù thủy...
+
+00:59:14.118 --> 00:59:18.953
+Bà ta đã dọ thám cuộc sống của chúng tôi qua đôi mắt của con búp bê
+
+00:59:19.523 --> 00:59:22.583
+Và biết rằng chúng tôi không hạnh phúc.
+
+00:59:23.227 --> 00:59:26.355
+Thế là bà ta dụ dổ chúng tôi với những kho báu..
+
+00:59:26.430 --> 00:59:29.399
+- Và sự đối xử ân cần
+- Và trò chơi
+
+00:59:29.466 --> 00:59:31.730
+Bà cho chúng tôi bất cứ cái gì chúng tôi đòi hỏi
+
+00:59:31.802 --> 00:59:34.236
+Nhưng chúng tôi mỗi lúc càng muốn nhiều nhiều hơn
+
+00:59:34.972 --> 00:59:38.135
+Thế là chúng tôi để bà ta may những cái nút vào
+
+00:59:41.645 --> 00:59:43.977
+Bà ấy bảo bà ấy yêu chúng tôi
+
+00:59:44.381 --> 00:59:46.576
+Nhưng bà ta đã giam giữ chúng tôi ở đây
+
+00:59:46.650 --> 00:59:49.983
+Và ăn dần sinh mệnh của chúng tôi
+
+00:59:53.057 --> 00:59:57.050
+Bà ấy không thể giữ tôi mãi trong bóng đêm như vầy...
+
+00:59:57.895 --> 01:00:00.295
+Nếu như bả muốn chiếm được sinh mệnh của tôi
+
+01:00:01.765 --> 01:00:04.598
+Đánh bại bà ấy là hy vọng duy nhất
+
+01:00:05.436 --> 01:00:08.428
+Có thể, nếu cậu thoát được
+
+01:00:08.505 --> 01:00:10.564
+Cậu có thể tìm giúp những cặp mắt của chúng tôi
+
+01:00:11.141 --> 01:00:12.938
+Bà ta đã lấy chúng đi ư?
+
+01:00:13.010 --> 01:00:15.740
+Bà ta đã lấy đi và giấu biệt chúng
+
+01:00:15.813 --> 01:00:19.340
+Hãy giúp chúng tôi tìm lại mắt,
+lúc đó linh hồn của chúng tôi mới được tự do cô chủ ạ!
+
+01:00:21.452 --> 01:00:22.646
+Tôi...
+
+01:00:22.820 --> 01:00:24.082
+Tôi sẽ cố gắng
+
+01:00:31.862 --> 01:00:33.022
+Wybie?  Wybie hả?
+
+01:00:36.266 --> 01:00:38.166
+Bà ta đã khiến cậu như thế nầy à?
+
+01:00:44.441 --> 01:00:46.375
+- I hope that feels... Hy vọng cậu thấy đỡ ....
+- Suỵt
+
+01:00:53.384 --> 01:00:55.716
+Coraline? Có phải con đấy không?
+
+01:00:55.786 --> 01:00:57.048
+Chạy thôi!
+
+01:01:00.591 --> 01:01:01.853
+Coraline!
+
+01:01:03.761 --> 01:01:06.059
+Đi mau, bà ta sẽ lại làm hại cậu đấy !
+
+01:01:11.468 --> 01:01:15.336
+Coraline!
+Sao con dám cãi lời mẹ thế!
+
+01:01:19.109 --> 01:01:20.474
+Coraline!
+
+01:01:35.359 --> 01:01:37.554
+Con về nhà rồi
+
+01:01:40.664 --> 01:01:42.131
+Có ai ở nhà ko?
+
+01:01:44.535 --> 01:01:46.503
+Xin chào ~!..
+
+01:01:47.304 --> 01:01:48.828
+Ba thiệt ơi!
+
+01:01:50.174 --> 01:01:51.505
+Mẹ thiệt ơi!
+
+01:01:52.209 --> 01:01:54.234
+A! Đồ mẹ đi chợ về nè !
+
+01:01:56.146 --> 01:01:57.204
+Ọe!
+
+01:01:58.415 --> 01:01:59.814
+Kinh quá !
+
+01:02:02.586 --> 01:02:05.419
+Con nhớ ba mẹ quá, ba mẹ không bao giờ biết là...
+
+01:02:06.623 --> 01:02:09.717
+- Ô !Thì ra là Wybie biết nói!
+- Hả?
+
+01:02:11.295 --> 01:02:15.732
+À à ! Cậu có nhớ con búp bê cũ mà mình đã đưa cậu ko?
+
+01:02:16.033 --> 01:02:17.159
+Um...Rồi sao?
+
+01:02:17.234 --> 01:02:20.601
+Bà mình giận ghê lắm
+Bà nói con búp bê đó là của bà cô.
+
+01:02:20.671 --> 01:02:24.232
+- Người chị em đã mất tích ấy.
+- Vậy là cậu đã ăn cắp con búp bê ấy à?
+
+01:02:24.308 --> 01:02:27.038
+Ôi! Tại nó giống cậu...nên tớ tưởng......
+
+01:02:27.111 --> 01:02:31.241
+Nó đã từng giống như cô gái như vầy, rồi sau đó giống Huck Finn Jr.
+
+01:02:31.315 --> 01:02:35.718
+Rồi sau đó lại giống một cô nàng trong nhóm Little Rascals với toàn là nơ với kẹp..Rồi...
+
+01:02:35.786 --> 01:02:40.155
+Giống người chị mất tích của bà...
+Tớ nghĩ là tớ vừa mới được gặp bà ấy. Theo tớ...!
+
+01:02:41.592 --> 01:02:43.719
+Nghe nè! tớ...tớ...tớ không được ...
+
+01:02:43.794 --> 01:02:44.852
+Oái !
+
+01:02:49.433 --> 01:02:50.957
+Bà ở trong đây nè.
+
+01:02:53.203 --> 01:02:55.569
+Cậu...Cậu mở khóa được không?
+
+01:02:55.639 --> 01:02:58.506
+Không đời nào!
+Nhưng nó không quan trọng nữa.
+
+01:02:58.575 --> 01:03:02.238
+Người bà mất tích của cậu không thể nào trốn thoát bởi không còn đôi mắt, và những hồn ma khác cũng thế
+
+01:03:03.947 --> 01:03:07.439
+À à !Thế nên mình muốn xin cậu lại con bup bê
+
+01:03:07.785 --> 01:03:10.185
+Quá tuyệt ! Tớ đang muốn quẳng nó đi đây!
+
+01:03:11.688 --> 01:03:14.384
+Mầy trốn đâu rồi hả, con tiểu yêu?
+
+01:03:14.458 --> 01:03:17.621
+- Lâu  nay cậu và bà có nói chuyện với nhau à?
+- Con búp bê là tên dọ thám của bà ta
+
+01:03:17.694 --> 01:03:21.095
+Nhờ nó bà ta có thể theo dõi được cậu, biết cuộc sống của cậu rối rắm ở chổ nào.
+
+01:03:21.165 --> 01:03:25.101
+- con búp bê là tên dọ thám của Bà mình à?
+- Không! Nó là do thám của mẹ khác
+
+01:03:25.169 --> 01:03:27.797
+Bà ta có một thế giới y chang như thế giới của mình nhưng mọi cái đều tốt hơn nhiều.
+
+01:03:27.871 --> 01:03:32.899
+Thức ăn, khu vườn, láng giềng...nhưng tất cả chúng đều là một cái bẫy.
+
+01:03:34.711 --> 01:03:38.010
+Chà ! Hình như có ai đang kêu tớ đấy Jonesy ạ!
+
+01:03:38.081 --> 01:03:40.982
+Cậu vẫn không tin tớ à? Thế thì hỏi con mèo đi.
+
+01:03:41.051 --> 01:03:45.750
+Mèo? Thôi thôi được rồi tớ sẽ nói với bà là cậu không tìm thấy con búp bê. oái !
+
+01:03:45.823 --> 01:03:47.723
+Cậu không chịu tin tớ!
+
+01:03:47.791 --> 01:03:50.624
+Vì cậu điên rồi!
+
+01:03:56.233 --> 01:03:58.565
+- Cậu là đồ ghê tởm!
+- Đồ điên!
+
+01:03:58.635 --> 01:04:02.503
+Điên ư?
+Cậu là tên vô lại khi đưa cho tớ con búp bê ấy!
+
+01:04:03.907 --> 01:04:05.272
+Ba ơi! Mẹ ơi!
+
+01:04:13.016 --> 01:04:15.507
+Bắt máy đi ba ! Bắt máy đi!
+
+01:04:17.821 --> 01:04:18.879
+ba! ba đang....
+
+01:04:18.956 --> 01:04:20.981
+&lt;i&gt;hiện thời tôi đang ngập lút đầu trong khu vườn của mình&lt;/i&gt;
+
+01:04:21.058 --> 01:04:24.027
+&lt;i&gt;Hãy để lại tin nhắn, tôi sẽ trả lời bạn sau.&lt;/i&gt;
+
+01:04:24.094 --> 01:04:25.959
+Ba mẹ đi đâu mất cả rồi?
+
+01:04:33.804 --> 01:04:36.967
+Ô! Cháu tưởng cô chỉ may cánh cho những con đã chết thôi chứ?
+
+01:04:37.040 --> 01:04:39.008
+Phải nhìn xa cháu ạ!
+
+01:04:39.076 --> 01:04:41.636
+Angus ngày càng yếu.
+
+01:04:41.712 --> 01:04:43.873
+April? Chị vẫn không sửa soạn ư?
+
+01:04:43.947 --> 01:04:46.108
+Chúng ta không còn ai để đi nhờ rồi Miriam ạ! ...
+
+01:04:46.183 --> 01:04:49.675
+Caroline bảo là ba mẹ nó đã biến gần như mất tiêu không để lại dấu vết gì
+
+01:04:49.753 --> 01:04:53.416
+Cái gì ?Chúng ta đã chờ mấy cái vé nầy biết bao tháng trời nay.
+
+01:04:53.490 --> 01:04:55.458
+Tôi nghĩ là mình có thể đi bộ
+
+01:04:55.525 --> 01:05:00.326
+Đi bằng đôi chân lè lặt của chị à?từ đây đến nhà hát là 2 dặm đường đấy!
+
+01:05:03.533 --> 01:05:06.764
+Ô! à!!ba mẹ con đã mất tích
+
+01:05:07.571 --> 01:05:10.131
+Chúng ta biết cháu cần gì rồi.
+
+01:05:10.207 --> 01:05:12.698
+Miriam, cầm....được rồi
+
+01:05:15.846 --> 01:05:17.609
+Thứ kẹo 100 năm tuổi nầy thì giúp được gì cháu nào?
+
+01:05:31.561 --> 01:05:33.426
+Đây rồi cháu yêu ạ!
+
+01:05:34.998 --> 01:05:37.558
+- Cái nầy dùng làm gì?
+- Nó có thể giúp được cháu đấy!
+
+01:05:37.634 --> 01:05:39.932
+Đôi khi chúng trị những thứ xấu xa rất hữu hiệu
+
+01:05:40.003 --> 01:05:43.029
+Không
+Chúng rất công dụng cho việc tìm những thứ thất lạc
+
+01:05:43.106 --> 01:05:45.267
+Những thứ xấu xa. Miriam!
+
+01:05:45.342 --> 01:05:47.776
+- Những thứ bị lạc April ạ!
+- Những thứ xấu xa
+
+01:05:47.844 --> 01:05:49.641
+- Thất lạc!
+- Những thứ xấu xa
+
+01:05:49.713 --> 01:05:50.873
+- Thất lạc!
+- Xấu xa!
+
+01:05:50.948 --> 01:05:51.937
+- Thất lạc!
+- Xấu xa!
+
+01:05:52.015 --> 01:05:53.039
+- Thất lạc!
+- xấu xa!
+
+01:05:53.116 --> 01:05:54.242
+Thất lạc!
+
+01:06:21.912 --> 01:06:23.504
+Chúc mẹ ngủ ngon
+
+01:06:24.448 --> 01:06:26.040
+Chúc ba ngủ ngon
+
+01:06:56.279 --> 01:06:58.577
+Làm thế nào mày vào được đây?
+
+01:07:00.117 --> 01:07:02.585
+Mày biết ba mẹ tớ đang ở đâu không?
+
+01:07:15.298 --> 01:07:17.459
+Mẹ ơi! Bố ơi!
+
+01:07:37.654 --> 01:07:39.485
+Sao lại thế này?
+
+01:07:50.901 --> 01:07:52.528
+Bà ta đã bắt được ba mẹ rồi
+
+01:08:31.842 --> 01:08:35.175
+Họ sẽ không bao giờ quay lại đúng không? ba và mẹ tôi
+
+01:08:36.279 --> 01:08:37.940
+Không thể nào họ tự thoát thân được
+
+01:08:39.983 --> 01:08:41.780
+Chỉ còn một cách duy nhất
+
+01:09:13.416 --> 01:09:17.216
+Chà! Cô bé đang đi thẳng vào bẫy của bà ta đấy.
+
+01:09:17.988 --> 01:09:19.785
+Tôi phải trở lại
+
+01:09:20.957 --> 01:09:22.788
+Họ là ba mẹ tôi
+
+01:09:24.561 --> 01:09:29.624
+Hãy thách thức bà ta.
+Bà ấy có thể chơi gian lận, nhưng sẽ không từ chối đâu
+
+01:09:29.699 --> 01:09:32.224
+She's got a thing for games.Bà ấy khoái chơi trò chơi lắm
+
+01:09:32.903 --> 01:09:34.131
+Ừm
+
+01:09:34.638 --> 01:09:35.969
+Vâng!
+
+01:09:39.976 --> 01:09:42.035
+- Coraline?
+- Mẹ?
+
+01:09:42.546 --> 01:09:45.310
+Coraline! Con về với chúng ta rồi
+
+01:09:45.382 --> 01:09:46.542
+Mẹ!
+
+01:09:49.686 --> 01:09:53.019
+Cưng ah, sao con lại chạy trốn mẹ?
+
+01:09:58.895 --> 01:10:00.362
+ba mẹ tôi đâu?
+
+01:10:00.430 --> 01:10:04.457
+Ồ, mẹ không biết
+ba mẹ cũ của con ở đâu cả
+
+01:10:04.534 --> 01:10:07.526
+Có thể họ cảm thấy chán con rồi
+Và qua Pháp rồi chăng.
+
+01:10:07.604 --> 01:10:10.004
+Họ không hề chán tôi. Bà bắt cóc họ!
+
+01:10:10.073 --> 01:10:13.008
+Nào, đừng làm khó nhau nữa nào, Coraline.
+
+01:10:13.076 --> 01:10:15.101
+Con ngồi xuống đi
+
+01:10:27.824 --> 01:10:29.086
+Mmm.
+
+01:10:34.798 --> 01:10:38.734
+- Tại sao bà không có chìa khóa riêng của bà?
+- Chỉ có một cái duy nhất thôi.
+
+01:10:38.802 --> 01:10:39.962
+Suỵt
+
+01:10:40.036 --> 01:10:43.597
+Khu vườn đang cần có người chăm đấy! Đần ạ!
+
+01:10:51.615 --> 01:10:52.843
+Mẹ hả?
+
+01:10:53.750 --> 01:10:54.910
+Ba?
+
+01:10:56.586 --> 01:10:57.644
+Bà ta nhốt ba mẹ ở đâu??
+
+01:10:58.989 --> 01:11:00.513
+Đến giờ điểm tâm rồi !
+
+01:11:06.563 --> 01:11:08.497
+Cứng rắn lên nào Coraline
+
+01:11:23.179 --> 01:11:25.875
+Tại sao chúng ta không chơi một trò nào đó nhỉ?
+
+01:11:26.716 --> 01:11:30.208
+- Tôi biết bà khoái trò chơi
+- Ai cũng thích thế mà!
+
+01:11:30.587 --> 01:11:32.020
+Ừ!
+
+01:11:32.088 --> 01:11:34.181
+Thế ta chơi trò gì nào?
+
+01:11:34.257 --> 01:11:37.590
+Một trò chơi khám phá. Đi tìm đồ vật
+
+01:11:38.495 --> 01:11:41.521
+Thế con sẽ tìm gì hả Coraline?
+
+01:11:41.998 --> 01:11:43.590
+Cha mẹ ruột của tôi.
+
+01:11:44.167 --> 01:11:45.464
+Quá dễ.
+
+01:11:45.535 --> 01:11:48.197
+Và các cặp mắt của những con ma bé bỏng.
+
+01:11:49.806 --> 01:11:50.932
+Hả?
+
+01:11:51.174 --> 01:11:53.506
+Nếu như con không tìm ra được họ?
+
+01:11:53.576 --> 01:11:57.535
+Nếu tôi thua, tôi sẽ ở đây với bà mãi mãi và để bà yêu thương tôi
+
+01:11:59.749 --> 01:12:02.650
+và để bà sẽ may nút vào mắt tôi
+
+01:12:02.952 --> 01:12:04.112
+Ừm
+
+01:12:04.254 --> 01:12:07.815
+Và nếu như bằng cách nào đó tôi thắng được trò chơi nầy?
+
+01:12:07.891 --> 01:12:10.485
+Thì bà phải thả tôi ra, và thả cả mọi người
+
+01:12:10.560 --> 01:12:12.152
+Thả cha mẹ ruột của tôi.
+
+01:12:12.228 --> 01:12:14.958
+Thả những đưa trẻ đã chết
+Thả những người mà bà đã giam cầm tại đây
+
+01:12:16.533 --> 01:12:17.795
+Đồng ý!
+
+01:12:18.601 --> 01:12:20.728
+Nhưng trước hết bà phải cho tôi một gợi ý!
+
+01:12:21.371 --> 01:12:23.134
+À! Phải rồi.
+
+01:12:23.940 --> 01:12:27.808
+Tại 3 kỳ quan ta đã làm cho con
+
+01:12:27.877 --> 01:12:31.313
+có đôi mắt của những hồn ma đang lạc ở nơi mà ai cũng thấy.
+
+01:12:33.049 --> 01:12:34.778
+Thế còn ba mẹ tôi?
+
+01:12:38.588 --> 01:12:40.419
+À! Không cần nói với tôi!
+
+01:12:43.793 --> 01:12:45.226
+Cam kết thế nhá!
+
+01:12:53.403 --> 01:12:56.497
+"Kỳ quan" bà ta muốn nói gì nhỉ?
+
+01:13:03.046 --> 01:13:04.138
+À à
+
+01:13:20.029 --> 01:13:21.360
+Ứ !
+
+01:13:35.311 --> 01:13:36.539
+Không!
+
+01:13:56.966 --> 01:13:58.729
+Đứng lại !
+
+01:14:16.019 --> 01:14:17.782
+Tại sao chúng muốn ăn cắp cái nầy nhỉ?
+
+01:14:20.890 --> 01:14:22.050
+Ồ !
+
+01:14:30.066 --> 01:14:31.658
+Chắc là nó đây rồi !
+
+01:14:35.972 --> 01:14:37.803
+Xin lỗi
+
+01:14:39.175 --> 01:14:43.839
+Thật là đáng tiếc, nhưng tôi chỉ làm theo lịnh của Mẹ
+
+01:14:44.714 --> 01:14:48.514
+Tôi không hề muốn làm hại cô!
+
+01:14:56.426 --> 01:14:58.485
+Cầm lấy !
+
+01:15:11.808 --> 01:15:14.368
+&lt;i&gt;Chúa phù hộ cho cô, cô bé ạ: Cô đã tìm được tôi!&lt;/i&gt;
+
+01:15:14.644 --> 01:15:17.112
+&lt;i&gt;Nhưng vẫn còn 2 đôi mắt khác:&lt;/i&gt;
+
+01:15:18.548 --> 01:15:21.449
+Đừng lo lắng. Tôi biết cách kiếm chúng rồi!
+
+01:16:46.569 --> 01:16:48.127
+Ngọc trai
+
+01:16:51.040 --> 01:16:52.132
+- Có trộm
+- Có trộm
+
+01:16:52.208 --> 01:16:54.199
+- Trả lại đây!
+- Trả lại đây!
+
+01:16:54.277 --> 01:16:55.403
+- Có trộm
+- Có trộm
+
+01:16:55.478 --> 01:16:56.706
+Trả lại đây!
+
+01:16:56.779 --> 01:16:58.212
+- Có trộm!
+- Có trộm!
+
+01:16:58.281 --> 01:16:59.407
+- Có trộm!
+- Có trộm!
+
+01:16:59.482 --> 01:17:00.847
+- Trả lại đây!
+- Có trộm!
+
+01:17:00.917 --> 01:17:02.475
+- Có trộm
+- Trả lại đây!
+
+01:17:02.552 --> 01:17:03.610
+- Trả lại đây!
+- Có trộm
+
+01:17:03.686 --> 01:17:05.517
+- Give it back! /Trả nó lại đây!
+- Give it back! /Trả nó lại đây!
+
+01:17:05.588 --> 01:17:06.748
+Thief! / Có trộm
+
+01:17:08.391 --> 01:17:09.517
+- Thief! / Có trộm
+- Thief! / Có trộm
+
+01:17:09.592 --> 01:17:12.060
+Ngừng lại! Ngừng lại! Trộm! Trộm!
+
+01:17:12.128 --> 01:17:13.686
+Trộm! Ngừng lại!
+
+01:17:21.237 --> 01:17:24.866
+&lt;i&gt;Nhanh lên cô gái, mạng nhện của bà ta đang phủ ra ra kia:&lt;/i&gt;
+
+01:17:41.324 --> 01:17:42.985
+Ôi Wybie....
+
+01:17:43.826 --> 01:17:47.728
+Bà phù thủy ác độc, ta không sợ ngươi đâu
+
+01:18:04.647 --> 01:18:08.344
+&lt;i&gt;Xin chào, galoobooshka:&lt;/i&gt;
+
+01:18:08.418 --> 01:18:09.976
+Tôi là Coraline
+
+01:18:11.187 --> 01:18:15.180
+Có phải đây là thứ cô bé đang tìm ko?
+
+01:18:16.626 --> 01:18:17.957
+A! đúng rồi!
+
+01:18:18.394 --> 01:18:21.921
+Cô nghĩ thắng trò chơi nầy là chuyện hay à?
+
+01:18:24.967 --> 01:18:29.700
+Sau khi thắng cuộc cô chỉ là quay về nhà
+sống một cuộc sống chán chường và bị thờ ơ
+
+01:18:29.772 --> 01:18:35.472
+và cứ như thế mãi.
+Hãy ở lại đây với chúng tôi.
+
+01:18:35.945 --> 01:18:40.609
+Chúng tôi sẽ lắng nghe những gì cô nói và chơi đùa với cô
+
+01:18:49.258 --> 01:18:54.890
+Nếu cô ở lại đây
+Cô sẽ có bất cứ thứ gì cô muốn
+
+01:18:56.232 --> 01:18:57.824
+Luôn luôn!
+
+01:18:58.668 --> 01:19:00.636
+Ông không hiểu gì hết đúng không?
+
+01:19:00.703 --> 01:19:03.263
+Tôi không hiểu
+
+01:19:03.906 --> 01:19:05.874
+Dĩ nhiên là ông không hiểu rồi
+
+01:19:05.942 --> 01:19:08.467
+Ông chỉ là bản sao mà Bà ấy làm từ Mít tơ Bê thật sự
+
+01:19:08.544 --> 01:19:13.038
+Giờ thì cả bản sao cũng không phải.
+
+01:19:27.730 --> 01:19:28.856
+Không!
+
+01:19:37.340 --> 01:19:38.432
+Không!!
+
+01:20:08.070 --> 01:20:13.098
+Trời ơi! tôi thua cuộc rồi.
+Tôi sẽ mất tất cả
+
+01:20:23.519 --> 01:20:27.853
+Tôi nghĩ là tôi đã từng nói rằng,
+tôi chẳng khi nào ưa nổi được mấy con chuột cống.
+
+01:20:29.659 --> 01:20:32.651
+Chắc là mày đã từng nói cái gì đó tương tự như thế
+
+01:20:32.728 --> 01:20:35.629
+Hình như cô đang cần tìm cái nầy thì phải?
+
+01:20:37.033 --> 01:20:38.364
+Cám ơn
+
+01:20:43.806 --> 01:20:47.401
+Tôi sẽ đi thẳng vào trong.
+Tôi còn phải tìm cha mẹ tôi
+
+01:21:12.935 --> 01:21:14.766
+Đi thôi! Nhanh lên nào!
+
+01:21:58.047 --> 01:22:01.016
+Thế là con đã quay lại
+
+01:22:01.984 --> 01:22:04.418
+Cùng với thứ sâu bọ nầy
+
+01:22:05.688 --> 01:22:07.781
+Không đúng, tôi...
+
+01:22:09.325 --> 01:22:11.088
+Tôi đi cùng 1 người bạn
+
+01:22:11.761 --> 01:22:15.026
+Con biết là ta yêu con mà!
+
+01:22:19.468 --> 01:22:23.029
+Và bà biểu lộ tình thương đó thật là kỳ quặc.
+
+01:22:24.674 --> 01:22:29.077
+Hừ ! Thế chúng đâu rồi ? Những cặp mắt ma?
+
+01:22:34.517 --> 01:22:39.420
+Từ từ. Chúng ta vẫn chưa kết thúc trò chơi mà ?
+
+01:22:39.488 --> 01:22:41.820
+Ồ! Mẹ nghĩ là chưa
+
+01:22:41.891 --> 01:22:47.852
+Dù gì đi nữa con vẫn muốn đi tìm Cha Mẹ cũ của mình đúng không?
+
+01:22:49.165 --> 01:22:52.726
+Too bad you won't have this.Tệ quá, con không còn cái này nữa.
+
+01:23:03.512 --> 01:23:07.710
+&lt;i&gt;Thông minh một tí đi cô gái:
+Ngay cả khi cô thắng, bà ta cũng không thả cô đâu!&lt;/i&gt;
+
+01:23:16.192 --> 01:23:18.956
+Tôi biết bà giấu ba mẹ tôi đâu rồi.
+
+01:23:20.696 --> 01:23:23.324
+Thế ư? Mang họ ra đây xem nào?
+
+01:23:25.167 --> 01:23:27.328
+Họ đang ở phía sau cánh cửa đó
+
+01:23:27.403 --> 01:23:30.270
+Ồ! họ ở đây ư? họ đâu?
+
+01:23:41.317 --> 01:23:42.511
+Đó đó
+
+01:23:45.354 --> 01:23:47.117
+Mẹ. ba
+
+01:23:52.161 --> 01:23:56.621
+Tiếp tục đi chứ. Mở cánh cửa đó ra đi, tôi biết ba mẹ tôi đang ở sau nó đấy!
+
+01:23:58.434 --> 01:24:03.497
+Con sai rồi Coraline. ba mẹ con không có ở đó.
+
+01:24:05.608 --> 01:24:10.705
+Bây giờ con phải ở lại đây mãi mãi
+
+01:24:11.547 --> 01:24:14.744
+Không, không bao giờ...
+
+01:24:27.663 --> 01:24:28.789
+Không
+
+01:24:31.834 --> 01:24:34.359
+Ngươi! đồ lừa đảo ranh ma!
+
+01:24:52.855 --> 01:24:56.791
+Không! Mi ở đâu rồi hả?
+
+01:24:56.859 --> 01:24:59.020
+Đứa bé hỗn xược ích kỷ!
+
+01:25:16.445 --> 01:25:19.243
+Ngươi dám cãi lời mẹ ngươi ư?
+
+01:25:25.721 --> 01:25:26.881
+Làm ơn đóng lại phụ tôi!!!
+
+01:25:42.571 --> 01:25:46.166
+Đừng bỏ ta! Đừng bỏ ta
+
+01:25:46.242 --> 01:25:49.040
+Ta sẽ chết nếu không có con!
+
+01:26:20.209 --> 01:26:21.642
+Coraline, ba mẹ về rồi nè !
+
+01:26:21.710 --> 01:26:23.940
+Ba ! Mẹ! con nhớ 2 người quá!
+Nhớ chúng ta ư? Thật không? Ôi! Con đã làm vỡ quả cầu tuyết yêu quý của mẹ rồi!
+
+01:26:29.318 --> 01:26:32.151
+Con không làm vỡ nó. Chắc là nó bị vỡ khi mẹ thoát ra.
+
+01:26:32.221 --> 01:26:33.347
+và cắt vào đầu gối của con hả?
+
+01:26:33.422 --> 01:26:36.050
+Ba kêu con phải đếm toàn bộ cửa sổ
+
+01:26:36.125 --> 01:26:37.786
+chứ không phải lấy lết đầu gối lên chúng.
+
+01:26:37.860 --> 01:26:40.328
+- Nhưng ...
+- Thôi , hãy rửa ráy sạch sẽ đi.
+
+01:26:40.396 --> 01:26:44.355
+- Tối nay chúng ta sẽ đi ăn ngoài.
+- Chúng ta có nhiều điều để ăn mừng.
+
+01:26:44.433 --> 01:26:47.493
+Mẹ đang nói về quyển catalô sân vườn của mẹ ư?
+
+01:26:48.037 --> 01:26:50.471
+Dĩ nhiên, còn cái gì khác ngoài nó nào???
+
+01:26:50.539 --> 01:26:53.133
+Nhưng mẹ hãy nhìn tuyết bám trên ......
+
+01:26:53.209 --> 01:26:55.609
+Chuyện gì xẩy ra với con thế Caroline?
+
+01:27:11.026 --> 01:27:13.688
+- Thế chúng ta sẽ đặt mua hoa tulip nhá?
+- Chuyện gì thế?
+
+01:27:13.762 --> 01:27:15.354
+Chuẩn bị cho tiệc ngoài vườn à?
+
+01:27:15.431 --> 01:27:17.956
+Ba không hiểu con đang nói chuyện gì?
+
+01:27:18.033 --> 01:27:21.901
+Ba! và cả Mẹ nữa đừng quên mời thiệp đấy!
+
+01:27:21.971 --> 01:27:24.906
+- Không được quên thiệp mời.
+- Nhưng mời cả Bobinsky à?
+
+01:27:24.974 --> 01:27:29.468
+Mít tơ Bê không ngiện rượu đâu mẹ, Ô. chỉ hơi lập dị một tí thôi
+
+01:27:31.313 --> 01:27:33.144
+Ngủ ngon Caroline!
+
+01:27:52.635 --> 01:27:53.966
+Oh.
+
+01:27:54.503 --> 01:27:55.936
+Chào cậu!
+
+01:27:56.805 --> 01:27:58.295
+Cậu vẫn còn bực bội à?
+
+01:27:59.475 --> 01:28:03.343
+Mình rất hối hận là đã ném cậu vào bà ta, bà phù thủy í!
+
+01:28:04.546 --> 01:28:06.776
+Lúc ấy tớ chỉ nghĩ được có thế.
+
+01:28:20.796 --> 01:28:23.424
+Đã đến lúc rồi phải không?
+
+01:28:24.300 --> 01:28:25.995
+Để giải phóng cho họ.
+
+01:28:48.891 --> 01:28:51.917
+Những gì cô đã làm cho chúng tôi thật là tuyệt vời.
+
+01:28:52.561 --> 01:28:55.462
+Vâng, tôi rất vui vì mọi chuyện rồi cũng đã kết thúc
+
+01:28:57.032 --> 01:29:00.468
+Mọi cái đã xong xuôi đối với chúng tôi
+
+01:29:00.969 --> 01:29:02.459
+Thế còn tôi?
+
+01:29:02.538 --> 01:29:04.665
+Cô đang ở trong một hoàn cảnh nguy hiểm cô gái ạ!
+
+01:29:04.740 --> 01:29:07.334
+Nhưng sao lại thế nhỉ?
+Tôi đã khóa cửa rồi mà?
+
+01:29:07.409 --> 01:29:12.073
+Đó là cái chìa khóa. Cô gái, chỉ có một cái duy nhất và bà phù thủy sẽ đi tìm nó...
+
+01:29:13.182 --> 01:29:15.343
+Không tệ lắm đâu cô gái ạ!
+
+01:29:16.018 --> 01:29:20.648
+Cô còn sống, vẫn còn sống mà!
+
+01:29:31.633 --> 01:29:35.262
+Tôi sẽ dấu cái nầy vào một nơi, một nơi mà bà ta không bao giờ....
+
+01:29:43.078 --> 01:29:44.568
+Tránh một bên đi
+
+01:29:59.895 --> 01:30:03.331
+&lt;i&gt;Ô!! con gái bé bé bồng bông của ta&lt;/i&gt;
+
+01:30:03.399 --> 01:30:05.333
+&lt;i&gt;con thật là đáng yêu&lt;/i&gt;
+
+01:30:05.401 --> 01:30:10.668
+&lt;i&gt;Ta cho con 1 tô cháo
+Ta cho con một ly kem&lt;/i&gt;
+
+01:30:12.307 --> 01:30:14.867
+&lt;i&gt;Ta hôn con thật nhiều&lt;/i&gt;
+
+01:30:16.445 --> 01:30:18.572
+&lt;i&gt;Ta ôm con thật chặt&lt;/i&gt;
+
+01:30:19.548 --> 01:30:21.778
+&lt;i&gt;Nhưng ta sẽ không đưa cho con miếng bánh mì kẹp nào&lt;/i&gt;
+
+01:30:21.850 --> 01:30:24.341
+&lt;i&gt;với mỡ, sâu và đậu..: : :&lt;/i&gt;
+
+01:30:25.587 --> 01:30:26.781
+&lt;i&gt;: : : đậu&lt;/i&gt;
+
+01:31:58.247 --> 01:32:03.514
+Mình thật sự cảm thấy hối hận khi đã không tin
+vào những lời cậu nói về những thứ ác độc nầy, Coraline ạ!
+
+01:32:05.120 --> 01:32:07.145
+Tại sao cậu đổi ý vậy?
+
+01:32:07.222 --> 01:32:11.124
+Bà cho mình xem bức hình nầy sau khi mình gọi cậu là đồ điên
+
+01:32:12.427 --> 01:32:15.658
+Đây là bà và chị của bà trước khi chị của bà biến mất
+
+01:32:15.731 --> 01:32:17.596
+Cô gái ma dịu dàng đây mà
+
+01:32:17.666 --> 01:32:21.602
+LOVAT:Wyborne! Về nhà ngay!
+
+01:32:22.471 --> 01:32:25.372
+Ôi! trời ơi! Tôi sẽ nói gì với bà ấy nhỉ?
+
+01:32:26.208 --> 01:32:30.269
+Chỉ cần mời bà đến nhà ngày mai.
+Chúng ta sẽ cùng nhau nói với bà.
+
+01:32:30.979 --> 01:32:33.379
+Chúng ta...Chúng ta có thể ư?
+
+01:32:33.448 --> 01:32:36.417
+Cậu biết đó. tớ rất vui khi cậu đã theo dõi tớ
+
+01:32:38.921 --> 01:32:40.013
+Đó không phải ý  của tớ
+
+01:33:06.381 --> 01:33:09.282
+Cám ơn sự giúp đỡ của mọi người. Cô Spink, cô Forcible
+
+01:33:09.351 --> 01:33:12.787
+Ô! nhìn kìa , April, nước cocktail Pink lady.
+
+01:33:12.854 --> 01:33:16.312
+Thật ra, nó chỉ là nước chanh
+Angus khỏe chưa cô?
+
+01:33:16.391 --> 01:33:21.419
+Ồ đã tốt hơn nhiều rồi, nhưng nó vĩnh viễn không xếp cánh dc nữa
+
+01:33:21.496 --> 01:33:22.520
+Tôi ợ đây!
+
+01:33:23.665 --> 01:33:24.689
+Charlie..!
+
+01:33:24.766 --> 01:33:28.497
+&lt;i&gt;Excusez-moi,
+nhưng cái bánh Pizza đó quả là ngon tuyệt!&lt;/i&gt;
+
+01:33:29.504 --> 01:33:31.734
+- Thức uống lạnh nhá!
+- Ồ !! tuyệt!
+
+01:33:31.807 --> 01:33:35.334
+Mẹ rất ghét sự bẩn thỉu!
+Nhưng con đúng đấy Caroline
+
+01:33:36.011 --> 01:33:38.809
+Nhưng hoa Tulip trông xinh quá
+
+01:33:38.880 --> 01:33:40.609
+Cảm ơn,mẹ
+
+01:33:45.887 --> 01:33:47.252
+Thế nầy thì mới phải chứ !
+
+01:33:49.958 --> 01:33:52.017
+&lt;i&gt;Mít tơ Bê, mooshkas ra sao rồi?&lt;/i&gt;
+
+01:33:52.094 --> 01:33:55.427
+Chúng bảo tôi rằng cô là một vị cứu tinh
+
+01:33:55.497 --> 01:33:57.124
+Ngay khi chúng sẵn sàng
+
+01:33:57.199 --> 01:34:00.600
+Chúng mong sẽ gửi đến cô một buổi biễu diễn cảm ơn thật trân trọng.
+
+01:34:00.669 --> 01:34:04.730
+Wyborne, bà biết bà đi đâu mà.
+
+01:34:04.806 --> 01:34:06.603
+Bà đã từng lớn lên ở đây.
+
+01:34:06.675 --> 01:34:08.438
+Chào mừng Bà Lovat!
+
+01:34:09.344 --> 01:34:11.335
+Ồ ! chào mọi người
+
+01:34:13.015 --> 01:34:16.610
+Con là Caroline Jones, con có rất nhiều chuyện muốn nói với bà.
+
+01:34:16.685 --> 01:34:18.414
+-Đây
+-Cảm ơn
+
+01:34:19.087 --> 01:34:21.146
+Có muốn thêm vào 1 ít rượu gin không, bà chị thân mến?
+
+01:34:21.223 --> 01:34:22.554
+Dĩ nhiên
+
+01:34:41.923 --> 01:34:46.554
+Syn từ Sub Của SubTeamBaamBoo bởi Vista™-HDVN.
